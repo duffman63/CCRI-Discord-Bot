@@ -3,6 +3,10 @@ import discord
 from discord.ext import commands
 import random
 
+f = open("token.txt")
+token = f.read()
+f.close()
+
 intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix='?', intents=intents)
@@ -19,4 +23,4 @@ async def term(ctx):
 	await ctx.send(terms[0].split(": ")[0])
 	await ctx.send(terms[0].split(": ")[1])
 
-bot.run('MTE4NjM2NjEwMTU1OTQ1OTg0MQ.G-JsEL.4UXxya4xoE5pJgx-gDQUlxtfB_hpv8PUkllSis')
+bot.run(token)
