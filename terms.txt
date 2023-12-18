@@ -1,0 +1,890 @@
+Advanced Persistent Threat (APT): An APT is a type of cyber attack where an unauthorized user gains access to a network and remains undetected for an extended period, often to steal sensitive data.
+Attack vector: An attack vector is a method or pathway through which an attacker can gain unauthorized access to a network, device, or application.
+Attributes: Attributes refer to characteristics or properties that can be used to identify or describe something, such as a person, object, or data.
+Authority: Authority refers to the power or right to make decisions and enforce rules or laws.
+Availability loss: Availability loss refers to the unavailability of a network, system, or application, often due to a cyber attack or technical issue.
+Black hat hackers: Black hat hackers are individuals who use their technical skills to exploit vulnerabilities in computer systems or networks for personal gain or malicious purposes.
+Cloud platforms: Cloud platforms are online services that allow users to store, manage, and access data and applications from remote servers via the internet.
+Competitors: Competitors are organizations or individuals who operate in the same industry or market and compete for the same customers, resources, or market share.
+Consensus: Consensus refers to a general agreement among a group of people, often used in the context of decision-making or problem-solving.
+Credential harvesting: Credential harvesting is the practice of stealing user credentials, such as usernames and passwords, through phishing scams or other methods to gain unauthorized access to a system or network.
+Criminal syndicates: Criminal syndicates are organized groups that engage in illegal activities, such as cybercrime, money laundering, or drug trafficking.
+Data breach: A data breach is an incident where unauthorized users gain access to sensitive or confidential data, often resulting in data theft, loss, or compromise.
+Data exfiltration: Data exfiltration is the unauthorized transfer of data from a network or system to an external destination, often for malicious purposes.
+Data loss: Data loss refers to the destruction or loss of data, often due to technical issues, human error, or cyber attacks.
+Data storage: Data storage refers to the process of storing and managing data, often using storage devices or online services.
+Default settings: Default settings refer to the preconfigured settings of a device or application, often used as the initial configuration when it is first installed or used.
+Direct access: Direct access refers to physical or remote access to a device or network, often with the intent of unauthorized use or data theft.
+Dumpster diving: Dumpster diving is the practice of searching through trash or recycling bins to find sensitive information, such as passwords, financial records, or personal information.
+Eliciting information: Eliciting information is the practice of obtaining information from individuals or organizations through social engineering techniques, such as phishing, pretexting, or baiting.
+Errors: Errors refer to mistakes or oversights that can lead to system malfunctions or security vulnerabilities.
+External: External refers to something that is outside of a system or organization, such as an external network, device, or individual.
+Familiarity: Familiarity refers to the knowledge or experience that an individual has with a system, network, or application, often used to exploit vulnerabilities or gain unauthorized access.
+Financial loss: Financial loss refers to the monetary damage caused by cyber attacks, such as theft of financial records, unauthorized purchases, or ransom payments.
+Firmware: Firmware is software that is embedded in hardware devices, such as printers, routers, or smartphones, used to control device functions and behavior.
+Gray hat hackers: Gray hat hackers are individuals who use their technical skills to exploit vulnerabilities in computer systems or networks for ethical or research purposes, but may sometimes cross ethical boundaries.
+Hacker: A hacker is an individual who uses their technical skills to gain unauthorized access to computer systems or networks, often with malicious intent.
+Hacktivists: Hacktivists are individuals or groups who use hacking techniques to promote political or social causes or to protest against specific organizations or individuals.
+Hoax: A hoax is a false or deceptive message or information, often spread through social media or email, with the intent of causing panic or misinformation.
+Hybrid warfare influence campaign: A hybrid warfare influence campaign is a type of cyber attack that uses social media or other online platforms to spread disinformation or propaganda to influence public opinion or political outcomes.
+Identity fraud (also called impersonation): Identity fraud is the practice of assuming another person's identity, often for financial gain or to commit other crimes.
+Identity theft: Identity theft is the practice of stealing another person's personal information, such as social security numbers, bank account numbers, or credit card information, to use for fraudulent purposes.
+Impersonation (also called identity fraud): Impersonation is the act of pretending to be another person or entity, often used for fraudulent purposes or to gain unauthorized access to a system or network.
+Influence campaigns: Influence campaigns are organized efforts to influence or manipulate public opinion, often through the use of social media or other online platforms.
+Insider threat: Insider threat refers to the risk of security breaches or data leaks caused by employees or contractors within an organization who have authorized access to systems or data.
+Intent/motivation: Intent/motivation refers to the underlying reasons or goals behind a cyber attack or security breach, such as financial gain, political or ideological reasons, or revenge.
+Internal: Internal refers to something that is within a system or organization, such as an internal network or employee.
+Intimidation: Intimidation refers to the use of threats or coercion to force individuals or organizations to comply with demands or to avoid detection.
+Invoice scam: An invoice scam is a type of fraud in which scammers impersonate a vendor or supplier and send false invoices to an organization in order to trick them into making a payment.
+Lack of vendor support: Lack of vendor support refers to situations where software or hardware vendors no longer provide updates, patches, or technical support for their products, leaving them vulnerable to security threats.
+Legacy platform: A legacy platform is a technology platform or system that is outdated or no longer supported by its original vendor, making it vulnerable to security threats and difficult to maintain or update.
+Level of capability/sophistication: Level of capability/sophistication refers to the technical skills and resources available to a cyber attacker, which can range from simple and unsophisticated attacks to complex and highly sophisticated attacks.
+On-premises platform: An on-premises platform is a technology platform or system that is hosted and maintained by an organization on its own premises, rather than in a cloud or off-site location.
+Open permissions: Open permissions refer to settings or configurations that allow users or devices to access or modify data or systems without proper authorization or security controls.
+Open ports and services: Open ports and services refer to network services or protocols that are accessible from the internet, making them vulnerable to cyber attacks or security breaches.
+Outsourced code development: Outsourced code development refers to the practice of hiring third-party developers or contractors to develop software or code for an organization, which can increase the risk of security vulnerabilities or data leaks.
+Patch: A patch is a software update or fix that addresses security vulnerabilities or bugs in a system or application.
+Pharming: Pharming is a type of cyber attack in which attackers redirect website traffic to a fake website, often used for phishing or to steal personal information.
+Phishing: Phishing is a type of cyber attack in which attackers use fraudulent emails or messages to trick individuals into revealing sensitive information or clicking on malicious links.
+Prepending: Prepending refers to the practice of adding text or characters to the beginning of a file or command, often used in malicious code to evade detection or bypass security measures.
+Pretexting: Pretexting is a type of social engineering in which attackers use a false pretext or story to trick individuals into revealing sensitive information or performing a specific action.
+Reconnaissance: Reconnaissance refers to the process of gathering information about a target, such as an organization or individual, in order to plan a cyber attack or security breach.
+Reputation: Reputation refers to the perceived trustworthiness or credibility of an individual, organization, or system, which can affect their vulnerability to cyber attacks or security breaches.
+Resources and funding: Resources and funding refer to the financial and technical resources available to cyber attackers, which can vary widely and affect the level of sophistication and success of their attacks.
+Scarcity: Scarcity refers to situations where resources, information, or goods are limited or in short supply, which can create opportunities for cyber attackers to exploit vulnerabilities or trick individuals or organizations.
+Script kiddies: Script kiddies are inexperienced or unskilled hackers who use pre-existing scripts or tools to launch simple attacks, often without a clear motive or goal.
+Shadow IT: Shadow IT refers to the use of unauthorized or unapproved software, devices, or services within an organization, which can create security vulnerabilities and risks.
+Shoulder surfing: Shoulder surfing is a type of social engineering in which attackers observe or record individuals entering passwords or sensitive information in order to gain unauthorized access to systems or data.
+Smishing: Smishing is a type of cyber attack in which attackers use text messages or SMS to trick individuals into revealing sensitive information or clicking on malicious links.
+Social engineering: Social engineering refers to the use of psychological manipulation or deception to trick individuals into revealing sensitive information or performing a specific action, often used in cyber attacks or security breaches.
+Social media influence campaign: Social media influence campaigns are organized efforts to influence or manipulate public opinion through the use of social media platforms, often using fake accounts or bots to spread false or misleading information.
+Spam: Spam refers to unsolicited or unwanted emails or messages, often used in phishing attacks or to spread malware or other types of malicious content.
+Spear phishing: Spear phishing is a targeted form of phishing in which attackers use personalized or customized messages to trick specific individuals or groups into revealing sensitive information or clicking on malicious links.
+Spim: Spim refers to spam messages sent through instant messaging platforms, often used in phishing attacks or to spread malware or other types of malicious content.
+State actors: State actors are government-sponsored or affiliated groups or individuals who engage in cyber attacks or security breaches for political or strategic purposes, often using advanced techniques and resources.
+Supply chain: The supply chain refers to the network of individuals, organizations, and resources involved in the production, distribution, and delivery of goods or services, which can be vulnerable to cyber attacks or security breaches.
+System integration: System integration refers to the process of combining different systems or components to create a larger, more complex system, which can create vulnerabilities or risks if not properly secured or tested.
+Tailgating: Tailgating is a physical security breach in which an unauthorized individual gains entry to a secure location by following an authorized individual through a controlled access point.
+Third parties: Third parties refer to individuals or organizations outside of an organization's direct control, such as vendors, contractors, or service providers, which can introduce security vulnerabilities or risks.
+Threat actor: A threat actor is an individual, group, or organization that engages in cyber attacks or security breaches, often with malicious intent or motive.
+Trust: Trust refers to the belief or confidence that individuals or organizations have in a system, product, or individual, which can affect their vulnerability to cyber attacks or security breaches.
+Typo squatting: Typo squatting is a type of cyber attack in which attackers register domain names that are similar to legitimate websites or URLs, often with the intention of tricking individuals into revealing sensitive information or downloading malware.
+Unsecure protocols: Unsecure protocols refer to network protocols or communication methods that are vulnerable to interception or attack, such as unencrypted email or FTP.
+Unsecured root accounts: Unsecured root accounts refer to administrator-level accounts or privileged access points that are not properly secured or protected, which can create security vulnerabilities or risks.
+Urgency: Urgency refers to situations where time is limited or critical, which can create opportunities for cyber attackers to exploit vulnerabilities or trick individuals or organizations.
+Vendor management: Vendor management refers to the process of managing and assessing the security risks associated with third-party vendors or service providers, which can introduce security vulnerabilities or risks.
+Vishing: Vishing is a type of social engineering in which attackers use voice or phone communication to trick individuals into revealing sensitive information or performing a specific action.
+Watering hole attack: A watering hole attack is a type of cyber attack in which attackers compromise a website or online resource that is likely to be visited by their intended target, in order to spread malware or steal sensitive information.
+Weak configurations: Weak configurations refer to system or software settings that are not properly secured or protected, which can create security vulnerabilities or risks.
+Weak encryption: Weak encryption refers to encryption methods or algorithms that are vulnerable to decryption or attack, which can compromise sensitive information or data.
+Whaling: Whaling is a type of phishing attack that targets high-level executives or individuals with access to sensitive information, often using personalized or customized messages.
+White hat hackers: White hat hackers are ethical hackers who use their skills to identify and expose vulnerabilities or weaknesses in systems or software, often with the goal of improving security.
+Zero day: Zero day refers to a vulnerability or exploit in software or systems that is unknown to the vendor or developers, which can create significant security risks or opportunities for cyber attackers.
+Active reconnaissance: Active reconnaissance refers to the process of actively gathering information or intelligence about a target, often using tools or techniques that can be detected or traced.
+Adversary tactics, techniques, and procedures (TTP): Adversary tactics, techniques, and procedures (TTP) refer to the methods or strategies used by cyber attackers or threat actors to achieve their objectives, which can help organizations prepare and defend against attacks.
+Benchmark/secure configuration guides: Benchmark or secure configuration guides provide recommendations or guidelines for securing systems or software based on industry best practices or standards.
+Black box: Black box testing refers to a type of security testing in which testers have no prior knowledge of the system or software being tested, which can help identify vulnerabilities or weaknesses that may be missed in other types of testing.
+Blue Team: Blue Team refers to the defensive or security-focused team in a cybersecurity organization or exercise, which is responsible for monitoring and defending against cyber attacks.
+Bug bounty: Bug bounty programs offer rewards or compensation to individuals or researchers who identify and report vulnerabilities or weaknesses in systems or software.
+Center for Internet Security (CIS): The Center for Internet Security (CIS) is a nonprofit organization that provides resources and guidance for improving cybersecurity and promoting best practices.
+Cleanup: Cleanup refers to the process of removing or resolving the effects or damage of a cyber attack or security breach, often including restoring systems or data to their previous state.
+Cloud Controls Matrix: The Cloud Controls Matrix is a set of security controls and requirements developed by the Cloud Security Alliance (CSA) for evaluating and managing security risks in cloud environments.
+Cloud Security Alliance (CSA): The Cloud Security Alliance (CSA) is a nonprofit organization that promotes best practices and standards for securing cloud environments.
+Common Vulnerabilities and Exposures (CVE): Common Vulnerabilities and Exposures (CVE) is a database of known vulnerabilities or weaknesses in software or systems, which provides a standardized way to identify and track vulnerabilities.
+Common Vulnerability Scoring System (CVSS): Common Vulnerability Scoring System (CVSS) is a standardized framework for assessing and rating the severity and impact of vulnerabilities or weaknesses.
+Configuration review: Configuration review is the process of assessing and analyzing the settings or configurations of systems or software to identify potential vulnerabilities or weaknesses.
+Credentialed scan: A credentialed scan is a type of vulnerability scan that uses authenticated or privileged access to systems or software to identify potential vulnerabilities or weaknesses.
+Drone: An unmanned aerial vehicle (UAV) that can be remotely controlled or fly autonomously through software-controlled flight plans.
+European Union General Data Protection Directive (GDPR): A regulation that aims to strengthen data protection for individuals within the European Union (EU) by placing requirements on organizations that collect, use, or process EU citizen data.
+False negative: A result that indicates a test has not detected a threat or vulnerability when in fact it is present.
+False positive: A result that indicates a test has detected a threat or vulnerability when in fact it is not present.
+Footprinting: The process of gathering information about a target system or organization in order to identify vulnerabilities and plan an attack.
+Framework: A structure or set of guidelines that provide a foundation for a program or process. In cybersecurity, frameworks are often used to establish best practices for managing risk and improving security posture.
+Fusion center: A centralized location where information from various sources is analyzed and used to support decision-making and operations.
+Gray box: A type of penetration testing where the tester has limited knowledge about the target system, but has some information such as network topology or login credentials.
+Intrusive scan: A type of vulnerability scan that actively probes and tests a system or network for vulnerabilities.
+ISO 27001: An international standard for information security management that provides a framework for implementing and maintaining an Information Security Management System (ISMS).
+ISO 27002: A code of practice for information security management that provides guidelines and general principles for initiating, implementing, maintaining, and improving information security management in an organization.
+ISO 27701: An international standard that provides guidance on implementing and maintaining a privacy information management system (PIMS) based on ISO/IEC 27001 and ISO/IEC 27002.
+ISO 31000: An international standard that provides guidelines for implementing a risk management process.
+Lateral movement: The movement of an attacker through a network or system, using a combination of techniques and tools to gain access to sensitive information or systems.
+Log: A record of events or transactions that occur within a system or network, which can be used for troubleshooting, analysis, and security purposes.
+Log reviews: The process of reviewing log files for indications of security breaches or anomalies.
+Maneuvering: The process of moving laterally within a network or system, using various techniques and tools to gain access to sensitive information or systems.
+NIST Cybersecurity Framework (CSF): A framework that provides a set of guidelines and best practices for organizations to manage and reduce cybersecurity risk.
+NIST Risk Management Framework (RMF): A framework that provides a structured, repeatable process for managing cybersecurity risk for federal information systems and organizations.
+Non-credentialed scan: A type of vulnerability scan that does not require authentication or login credentials to probe and test a system or network for vulnerabilities.
+Nonintrusive scan: A type of vulnerability scan that does not actively probe or test a system or network for vulnerabilities, but instead uses passive techniques to collect information about the target.
+Open source intelligence (OSINT): The collection and analysis of publicly available information from open sources such as social media, news sites, and government websites.
+Passive reconnaissance: The process of gathering information about a target system or organization without directly interacting with the target, using sources such as open source intelligence or social engineering techniques.
+Payment Card Industry Data Security Standard (PCI DSS): A set of security standards established to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment.
+Penetration testing: A type of security assessment where a tester attempts to exploit vulnerabilities in a system or network in order to identify weaknesses and improve security.
+Persistence: The ability of an attacker to maintain access to a system or network over a long period of time, often through the use of backdoors or other means.
+Pivot: The process of using a compromised system or network to gain access to other systems or networks within a target organization.
+Platform/vendor-specific guides: A set of guidelines or best practices specific to a particular system or vendor, often provided by the vendor themselves.
+Privilege escalation: The process of gaining elevated access or permissions within a system or network, often through exploiting vulnerabilities or weaknesses.
+Purple Team: A team that combines the skills and knowledge of both the Red Team (offensive security) and Blue Team (defensive security) to improve overall security posture.
+Red Team: A team that performs offensive security testing to identify vulnerabilities and weaknesses in a system or network.
+Reference architecture: A set of architectural models or patterns that provide a blueprint for building and deploying complex systems or applications.
+Regulations: A set of rules or directives enacted by a governing body to ensure compliance and consistency in certain activities or industries.
+Request for Comments (RFC): A document that describes proposed standards, protocols, or procedures for public review and feedback.
+Rules of Engagement: Guidelines for how a security assessment or test should be conducted, including what is allowed and what is not allowed.
+Security Information and Event Management (SIEM): A security solution that collects and analyzes security-related data from multiple sources to identify and respond to security incidents.
+Security Orchestration, Automation and Response (SOAR): A security solution that combines automation and orchestration capabilities to improve incident response time and efficiency.
+Sentiment Analysis: The process of using natural language processing and machine learning techniques to determine the sentiment or emotion expressed in text or speech.
+SSAE SOC 2 Type II: A type of audit report that provides assurance on the effectiveness of a service organization's controls related to security, availability, processing integrity, confidentiality, and privacy.
+SSAE SOC 2 Type III: A type of audit report that provides the same assurance as SOC 2 Type II, but also includes a description of the service organization's system and tests of the operating effectiveness of its controls over a specified period.
+Standard: A set of established guidelines or requirements that define how something should be done or how something should work.
+Threat Feeds: Sources of information about known or suspected threats that can be used to proactively defend against security incidents.
+Threat Hunting: The process of proactively searching for and identifying potential security threats that may have evaded traditional security controls.
+Unmanned Aerial Vehicle (UAV): A drone or aircraft that is remotely piloted or automated for various purposes, including surveillance, delivery, and reconnaissance.
+User Behavior Analysis: The process of analyzing user actions and behavior on a network or system to identify anomalous or suspicious activity that may indicate a security threat.
+Vulnerability Feeds: Sources of information about known vulnerabilities in software, systems, or devices that can be used to prioritize and remediate security issues.
+Vulnerability Scan: An automated process of scanning and identifying known vulnerabilities in software, systems, or devices to identify potential security risks.
+War Driving: The practice of driving around with a wireless-enabled device to identify and map out wireless networks and access points.
+War flying: a technique in which an attacker uses a wireless-enabled device to search for and map out wireless networks from the air.
+White box: a type of testing in which the tester has full access to the system being tested, including its internal workings and source code.
+White Team: a group of individuals responsible for ensuring the security of an organization's network and systems by testing for vulnerabilities and providing feedback to the Blue and Red teams.
+Adversarial artificial intelligence: the use of artificial intelligence (AI) in a way that is intentionally malicious or harmful, such as training an AI model to bypass security measures.
+Application program interface (API) attack: an attack that targets vulnerabilities in an organization's API to gain unauthorized access to its systems or data.
+Backdoor: a hidden method of bypassing normal authentication or security measures to gain access to a system or data.
+Bot: a program or software agent that performs automated tasks over the internet, such as web scraping or spamming.
+Buffer overflow attack: an attack that occurs when a program attempts to store more data in a buffer than it can hold, resulting in the overwriting of adjacent memory locations and potentially allowing an attacker to execute malicious code.
+Client-side request forgery: a type of attack in which an attacker tricks a client into making a request on behalf of the attacker, potentially allowing the attacker to access sensitive information or perform unauthorized actions.
+Command and control (C&C): a centralized server or servers that control and direct malware-infected devices or bots.
+Cross-site request forgery (CSRF): an attack in which an attacker tricks a user into performing an action on a website without their knowledge or consent, potentially allowing the attacker to access or modify sensitive data.
+Cross-site scripting (XSS): an attack in which an attacker injects malicious code into a website or web application, potentially allowing the attacker to steal sensitive information or perform unauthorized actions.
+Cryptomalware: a type of malware that encrypts a victim's files and demands a ransom in exchange for the decryption key.
+Device driver manipulation: an attack that targets vulnerabilities in a device driver, potentially allowing an attacker to gain privileged access to a system or data.
+DLL injection: an attack in which an attacker injects malicious code into a process by exploiting vulnerabilities in a dynamic link library (DLL).
+Error handling: the process of detecting, diagnosing, and resolving errors in a system or application.
+UEFI (Unified Extensible Firmware Interface): A firmware interface that replaces the traditional BIOS in modern computers, providing advanced features such as secure boot, faster boot times, and improved security.
+Version control: The process of tracking and managing changes to software code, documents, or any other type of digital asset over time.
+Vulnerability database: A collection of information about security vulnerabilities in software, hardware, and other systems, used to help organizations identify and prioritize security issues.
+Whitelisting: A security approach that allows only approved applications or users to access a system, while blocking all others.
+Application management: The process of managing the lifecycle of software applications, including their deployment, configuration, maintenance, and removal.
+Arduino: An open-source hardware and software platform used for building electronic projects, such as microcontroller-based devices and interactive objects.
+Bring your own device (BYOD): A policy that allows employees to use their personal devices, such as smartphones and laptops, for work purposes.
+Carrier unlocking: The process of removing software restrictions imposed by a mobile carrier on a smartphone or other mobile device, enabling it to be used on other carriers' networks.
+Cellular telephony: A communication technology that uses cellular networks to enable voice and data transmission between mobile devices.
+Choose your own device (CYOD): A policy that allows employees to choose from a selection of company-approved devices for work purposes.
+Constraints: Limitations or restrictions placed on a system or process to reduce the risk of security incidents or other unwanted outcomes.
+Containerization: A method of virtualization that allows multiple applications to run in isolated environments, or containers, on the same host operating system.
+Content management: The process of organizing, creating, publishing, and managing digital content, such as documents, images, and videos, across an organization.
+Context-aware authentication: A security approach that uses contextual information, such as the user's location or device, to assess the risk of a login attempt and determine whether additional authentication steps are needed.
+Corporate owned, personally enabled (COPE): A policy that allows employees to use company-owned devices for personal purposes, while still retaining control over the security and management of the device.
+Corporate owned: A policy that provides company-owned devices to employees for work purposes, with full control over the security and management of the device.
+eXtensible Markup Language (XML): a markup language that is used to encode documents in a format that is both human-readable and machine-readable.
+fileless virus: a type of malware that resides in memory and does not rely on files on disk to execute, making it difficult to detect and remove.
+improper input handling: a vulnerability that occurs when an application does not properly handle user input, allowing an attacker to inject malicious code or data.
+injections: a type of attack where an attacker injects malicious code or data into an application or database.
+integer overflow attack: a type of attack where an attacker exploits an integer overflow vulnerability to cause a program to execute unintended actions.
+keylogger: a type of malware that records keystrokes made by a user, often used to steal passwords or other sensitive information.
+logic bomb: a type of malware that is designed to execute a malicious action when a specific trigger condition is met.
+malware: a type of software that is designed to cause harm to a computer system, network, or device.
+memory leak: a type of software bug where a program does not properly release memory after it is no longer needed, causing the program to consume increasing amounts of memory over time.
+pointer/object dereference: a type of software bug where a program attempts to access an object or memory location that has already been deallocated or otherwise invalidated.
+potentially unwanted programs (PUPs): software that is installed on a computer without the user's consent or knowledge, often used for malicious purposes such as adware or spyware.
+race condition: a type of software bug that occurs when two or more threads or processes access a shared resource in an unexpected order, leading to unexpected or incorrect behavior.
+ransomware: a type of malware that encrypts a user's files and demands payment in exchange for the decryption key.
+refactoring: the process of restructuring and improving the code of an application without changing its behavior.
+remote access Trojan: a type of malware that allows an attacker to gain remote access and control of a victim's computer system.
+replay: a type of attack where an attacker intercepts and retransmits a valid data transmission to cause unintended actions.
+Certificate Revocation List: A list of digital certificates that have been revoked by a certificate authority before their expiration date, due to security concerns or other reasons.
+Certificate Signing Request: A message sent by an applicant to a certificate authority to request the issuance of a digital certificate, containing the applicant's public key and identifying information.
+Cipher Suite: A set of cryptographic algorithms and parameters used to negotiate secure communication between two parties, such as a client and a server.
+Code Signing Digital Certificate: A digital certificate used to sign software code, indicating that the code has not been altered or tampered with since it was signed.
+Common Name: A field in a digital certificate that identifies the entity to which the certificate was issued, such as a domain name or an individual's name.
+Counter: A value used in cryptography to ensure the uniqueness and freshness of a message, by incrementing it for each new message.
+Digital Certificate: A digital document that binds a public key to an entity, such as a person, organization, or device, and is used to authenticate the identity of the entity in electronic communication.
+Distinguished Encoding Rules: A standard syntax for encoding and decoding digital certificates and other data structures, using a binary format.
+Domain Validation Digital Certificate: A type of digital certificate that verifies the ownership and control of a domain name, and is issued quickly and at a low cost.
+Email Digital Certificate: A digital certificate used to secure email communication, by encrypting the content and verifying the sender's identity.
+Encapsulating Security Payload: A protocol used in IPsec to provide confidentiality, integrity, and authenticity for packets transmitted over a network.
+Expiration: The date and time after which a digital certificate is no longer valid and should not be used for authentication or encryption.
+Extended Validation Certificate: A type of digital certificate that provides the highest level of assurance for website visitors, by verifying the legal, physical, and operational identity of the entity behind the website.
+Hypertext Transport Protocol Secure: A protocol used to secure communication between a web browser and a web server, by encrypting the content and verifying the server's identity, using digital certificates.
+Intermediate Certificate Authority: A certificate authority that issues digital certificates to other certificate authorities or to end entities, and is trusted by a root certificate authority.
+Internet Protocol Security: A protocol suite used to provide secure communication between two parties over an IP network, by encrypting and authenticating the traffic.
+Physical locks: Physical mechanisms that restrict access to a building or room by requiring a key, combination, or other form of authentication.
+Ping: A command used to test connectivity between two devices on a network by sending a packet of data and waiting for a response.
+PowerShell: A command-line shell and scripting language used primarily in Windows environments for system administration and automation tasks.
+Protected cable distribution: The use of physical barriers and enclosures to prevent unauthorized access to network cables and connections.
+Proximity: A form of authentication that relies on the physical proximity of a device or token to a reader or scanner.
+Python: A high-level programming language used for a wide range of tasks, including web development, data analysis, and automation.
+Receptionist: A person who greets visitors to a building or office and may be responsible for verifying their identity and issuing badges or access cards.
+Robot sentries: Autonomous or semi-autonomous robots that are used to patrol and monitor an area for security purposes.
+Route: The path that data takes through a network from one device to another.
+Safe: A secure container used to store valuable or sensitive items or documents.
+Scanless: A term used to describe a technique or tool that does not involve scanning a network or system for vulnerabilities or weaknesses.
+Secure areas: Restricted areas within a building or facility that require special access controls and may be monitored by security personnel or cameras.
+Security guards: Trained personnel responsible for monitoring and protecting a building or facility against unauthorized access or other security threats.
+Sensors: Devices used to detect physical or environmental changes, such as motion, temperature, or sound.
+Session replay: An attack where an attacker intercepts and records a user's session on a website or application in order to replay it later and gain access to sensitive information.
+Signage: Signs and posters used to communicate security policies, restrictions, and other important information to employees and visitors.
+Self-signed: A self-signed certificate is a digital certificate that is not issued by a trusted Certificate Authority (CA). It is signed by its own private key and is used to establish secure communication between a server and a client.
+SSL stripping: SSL stripping is a type of attack where an attacker intercepts the communication between a server and a client and downgrades the secure HTTPS connection to a non-secure HTTP connection.
+Stapling: OCSP stapling is a technique used to improve the speed and security of SSL/TLS connections by including the certificate status information in the SSL/TLS handshake, thus avoiding the need for the client to perform an additional request to the OCSP server.
+Subject Alternative Name (SAN): Subject Alternative Name (SAN) is an extension to X.509 digital certificates that allows multiple hostnames to be protected by a single certificate.
+Transport Layer Security (TLS): TLS is a protocol that provides secure communication between two applications over the Internet. It is the successor to SSL.
+Transport mode: Transport mode is a type of IPsec VPN configuration where only the IP packet payload is encrypted, while the IP header is left unencrypted.
+Trust model: A trust model is a set of rules and procedures that govern how digital certificates are issued, distributed, and validated. It is used to establish trust between two parties over an insecure network.
+Tunnel mode: Tunnel mode is a type of IPsec VPN configuration where both the IP packet header and payload are encrypted.
+Unauthentication mode of operation: Unauthenticated mode of operation is a configuration option in IPsec VPNs where the VPN connection is not authenticated using digital certificates.
+User digital certificate: A user digital certificate is a digital certificate that is issued to an individual user and is used to authenticate the user's identity in a secure communication.
+Wildcard digital certificate: A wildcard digital certificate is a type of digital certificate that is used to secure multiple subdomains of a domain name with a single certificate.
+Address Resolution Protocol (ARP): ARP is a protocol used by network devices to map IP addresses to MAC addresses.
+Air gap: An air gap is a physical security measure that involves keeping a computer or network physically isolated from other computers or networks.
+Alarm: An alarm is a device or system that alerts security personnel or other stakeholders when a security breach or threat is detected.
+ARP poisoning: ARP poisoning is a type of attack where an attacker sends false ARP messages to a network device, causing it to associate the attacker's MAC address with a legitimate IP address.
+Badge: A badge is a physical security token that is used to grant access to secure areas or resources.
+Jailbreaking: The process of removing software restrictions imposed by the manufacturer or carrier on devices like smartphones and tablets, allowing users to gain access to unauthorized apps and customizations.
+Malicious flash drive: A flash drive containing malware designed to spread to a computer or network it is plugged into.
+Malicious USB cable: A USB cable designed to look like a regular cable but is rigged to install malware on the device it is connected to.
+Mobile Application Management (MAM): The management of mobile applications used within an organization, including their deployment, updating, and removal.
+Mobile Content Management (MCM): The management of mobile content, including documents, images, and other data, used within an organization.
+Mobile Device Management (MDM): The management of mobile devices within an organization, including the security and configuration of devices and their applications.
+Multifunctional printer (MFP): A printer that can also perform other functions such as scanning, copying, and faxing.
+Multimedia Messaging Service (MMS): A messaging service that allows users to send multimedia content such as images and videos in addition to text messages.
+Personal Identification Number (PIN): A numeric password used to access a device or an account.
+Push notification services: A service that sends notifications to a user's device without requiring the user to actively check for updates.
+Raspberry Pi: A small computer that is low-cost and easy to use, designed to teach programming and be used for various projects.
+Real-time operating system (RTOS): An operating system that is designed to provide predictable and timely responses to events or inputs.
+Remote wipe: The ability to erase data from a device remotely, often used as a security measure in case of theft or loss.
+Rich Communication Services (RCS): A messaging protocol that allows for more advanced features like multimedia messaging, file sharing, and read receipts.
+Rooting: The process of gaining full administrative access to a device's operating system, allowing for greater control and customization.
+Screen lock: A security feature that requires a user to enter a password or PIN to access their device.
+Self-Encrypting Drives (SEDs): Hard drives or solid-state drives that have built-in encryption capabilities, protecting data stored on the drive.
+Steganography: The practice of concealing data within another file or message, making it difficult to detect.
+Stream Cipher: A type of encryption algorithm that encrypts data on a bit-by-bit basis, rather than block-by-block like a block cipher.
+Symmetric Cryptographic Algorithm: An encryption algorithm that uses the same key for both encryption and decryption.
+Trusted Platform Module (TPM): A hardware component that provides secure storage of encryption keys and performs cryptographic operations.
+Weak Key: A key that can be easily guessed or determined through brute force attacks, making it less secure.
+.cer: A file extension for X.509 digital certificates.
+.P12: A file extension for a Personal Information Exchange file, which contains a private key and a digital certificate.
+.P7B: A file extension for a format used to store digital certificates and their associated chain of trust.
+Authentication Header (AH): A protocol used in IPsec to provide integrity and authentication for IP packets.
+Authentication Mode of Operation: A mode of operation in cryptography that provides message integrity and authentication without confidentiality.
+Block Cipher Mode of Operation: A mode of operation in cryptography that applies a block cipher to plaintext data in blocks, often in combination with other techniques.
+Canonical Encoding Rules (CER): A set of rules for encoding data structures in a way that ensures consistency and interoperability.
+Certificate Attributes: Information included in a digital certificate, such as the certificate holder's name and the issuing CA.
+Certificate Authority (CA): An entity that issues digital certificates and verifies the identity of certificate holders.
+Certificate Chaining: The process of verifying a digital certificate by checking the chain of trust from the root CA to the end-entity certificate.
+DNS Sinkhole: A technique used to redirect traffic from a malicious domain to a controlled system in order to analyze and block the traffic.
+East-West Traffic: Network traffic that flows between servers within a data center or cloud environment, as opposed to traffic flowing between the data center and external sources (North-South traffic).
+Extranet: A private network that allows authorized external parties, such as customers or partners, to access a company's internal network.
+Fake Telemetry: The use of fake data generated by an application or device in order to deceive an attacker or monitor their activities.
+File Integrity Monitors: Software tools that monitor files and directories for changes and alert administrators if unauthorized modifications are detected.
+Firewall: A network security device that monitors and controls incoming and outgoing traffic based on pre-defined security rules.
+Forward Proxy: A proxy server that sits between a client and the internet and forwards requests to external servers on behalf of the client.
+Full Tunnel: A VPN configuration in which all traffic, including internet traffic, is routed through the VPN tunnel.
+Geographical Consideration: The process of considering geographic locations in designing and implementing network and security infrastructure.
+Hardware Firewall: A firewall implemented using dedicated hardware devices, rather than software running on a general-purpose computer.
+Heuristic Monitoring: A monitoring technique that uses algorithms and rules-based systems to detect anomalies and potential security threats.
+Honeyfiles: Fictitious files or directories created to attract and monitor potential attackers.
+Honeynet: A network of honeypots that are designed to attract and monitor potential attackers.
+Honeypot: A decoy system designed to look like a legitimate target, with the goal of attracting and monitoring potential attackers.
+Host-based Firewall: A firewall implemented as software on an individual computer or server, rather than on a dedicated hardware device.
+HTML 5: The latest version of the Hypertext Markup Language (HTML), used for creating and presenting content on the World Wide Web.
+Custom Firmware: A modified version of device firmware that is created to add or change functionality beyond what is provided by the original manufacturer.
+Drone: An unmanned aerial vehicle (UAV) that is remotely piloted or can fly autonomously.
+Embedded System: A computer system designed to perform specific functions, often with limited resources and a dedicated purpose, embedded within a larger device.
+External Media Access: The ability for a device or system to read or write data from external media sources such as USB drives or memory cards.
+Field-Programmable Gate Array (FPGA): An integrated circuit that can be configured to perform specific functions using hardware description languages, rather than being fixed in functionality like a traditional CPU.
+Firmware OTA Updates: Firmware updates delivered over-the-air (OTA) using wireless networks.
+Full Disk Encryption: The process of encrypting the entire contents of a hard drive or other storage device to protect against unauthorized access.
+Geofencing: A virtual boundary set up around a physical location, which triggers a response when a mobile device enters or leaves the area.
+Geolocation: The process of determining the physical location of a device or user.
+Global Positioning System (GPS): A satellite-based navigation system that provides location and time information in all weather conditions, anywhere on or near the Earth.
+GPS Tagging (Geo-tagging): The process of adding location information to a photo, video, or other digital media.
+Heating, Ventilation, and Air Conditioning (HVAC): The systems used to regulate temperature, humidity, and air quality in buildings and vehicles.
+Hotspot: A location with Wi-Fi access that is intended for public use.
+Industrial Control Systems (ICS): Systems used to control and monitor industrial processes, such as power generation or manufacturing.
+Infrared: Electromagnetic radiation with wavelengths longer than visible light, used in many applications including remote controls and thermal imaging.
+Internet of Things (IoT): The network of physical devices, vehicles, home appliances, and other items embedded with electronics, software, sensors, and connectivity which enable them to connect, exchange data and perform actions.
+Open Source Firewall: A firewall that is built on open-source software, allowing for transparency in code, easy customization, and community support.
+Out-of-Band Management: A method of managing network devices through a separate communication channel from the main data path, often using a dedicated management network.
+Passive: A type of monitoring where data is observed without making any changes to it.
+Persistence: The ability of a system to retain data or settings across reboots or power cycles.
+Port Mirroring (Port Spanning): A technique used to copy network traffic from one network port to another, allowing for monitoring or analysis.
+Port TAP (Test Access Point): A device used to access and monitor network traffic by connecting to a network device's physical ports.
+Proprietary Firewall: A firewall that is built on proprietary software, usually requiring licensing fees and often with limited customization options.
+Quality of Service (QoS): A set of techniques used to prioritize network traffic and ensure that critical traffic is given higher priority than non-critical traffic.
+Remote Access VPN: A virtual private network (VPN) connection that allows remote users to securely access an organization's network over the internet.
+Reverse Proxy: A server that sits between client devices and web servers, acting as an intermediary and providing additional security and performance benefits.
+Rights Management: The process of managing permissions and access rights to resources or data within an organization, ensuring that only authorized users have access.
+Route Security: The measures taken to protect network routing protocols from malicious attacks or misconfigurations.
+Scheduling: The process of setting up tasks to run automatically at specified times.
+Signature-based Monitoring: A type of monitoring that compares network traffic against known attack signatures to detect potential threats.
+Site-to-Site VPN: A VPN connection that connects two or more separate networks, allowing them to communicate securely over the internet.
+Software Firewall: A firewall that is implemented as a software application, running on a computer or server, rather than as dedicated hardware.
+Indicator of compromise (IOC): A piece of evidence that suggests an organization has been breached. IOCs may include IP addresses, domain names, hashes of malicious files, and other artifacts that can help identify and respond to an attack.
+Integrity measurement: A security process that ensures the data and systems within an organization are not tampered with. This is done by creating a baseline measurement of the system's state and continuously monitoring for any changes.
+Manual peer reviews: A process where code is reviewed by a group of peers to identify any potential security issues or flaws. This process is typically conducted before code is released to production.
+Measured Boot: A security feature that ensures the operating system and firmware are in a known, trusted state before allowing the system to boot.
+Memory management: The process of allocating, freeing, and organizing computer memory to optimize system performance and ensure security.
+Normalization: The process of transforming data into a standardized format so it can be used across different systems and platforms.
+Obfuscation/camouflaged code: A technique used to make code harder to understand or reverse engineer by disguising its intent or functionality.
+Open source: Software that is freely available to use, modify, and distribute. Open source software often has a large community of developers who contribute to its development.
+OWASP (Open Web Application Security Project): A non-profit organization focused on improving the security of software applications. OWASP provides resources, tools, and guidelines for developers to build more secure applications.
+Predictive analysis: A process of using data and machine learning algorithms to make predictions about future events or outcomes.
+Private information sharing centers: Organizations that share threat intelligence with a select group of trusted partners to improve security.
+Production stage: The stage of software development where the code is released to end-users.
+Proper input validation: A security practice that ensures user input is properly validated and sanitized before being processed by a program or application.
+Provisioning: The process of setting up and configuring systems, software, and hardware for use.
+Public information sharing centers: Organizations that share threat intelligence with a broad community of organizations to improve overall security.
+Quality assurance (QA): A process of ensuring software or systems meet defined quality standards and requirements. This can include testing, code reviews, and other validation techniques.
+Barricade: A physical or virtual barrier used to prevent unauthorized access to a particular area or system.
+Bash: A Unix shell and command language used in many operating systems.
+Bollard: A vertical post or pillar used to restrict or control access to a specific area or prevent vehicle intrusion.
+Cable lock: A physical security device that is used to lock down equipment by wrapping a cable around it and securing it with a lock.
+Cat: A Unix command used to concatenate and display files.
+Chmod: A Unix command used to change the access permissions of files and directories.
+Closed circuit television (CCTV): A system of video cameras used to monitor a specific area or location.
+Cuckoo: An open-source automated malware analysis system used to identify and analyze malware.
+Curl: A command-line tool used to transfer data from or to a server.
+Demilitarized zone (DMZ): A network area that is separate from a secure network but is still protected from the Internet by a firewall.
+Dig: A Unix command used to query DNS servers to obtain information about domain names.
+Distributed denial of service (DDoS): A type of cyber attack in which multiple systems are used to flood a target system or network with traffic, causing it to become unavailable.
+DNS hijacking: A type of attack in which a hacker redirects traffic meant for a legitimate website to a fake website.
+DNS poisoning: A type of attack in which a hacker manipulates DNS records to redirect traffic meant for a legitimate website to a fake website.
+Dnsenum: A tool used for enumerating subdomains of a given domain.
+Domain name resolution: The process of converting a domain name into an IP address.
+Birthday attack: A cryptographic attack that exploits the probability of two messages having the same hash value, which can be used to impersonate one of the messages.
+Block cipher: A type of symmetric encryption algorithm that operates on fixed-length groups of bits called blocks.
+Blockchain: A decentralized and distributed digital ledger that records transactions in a tamper-resistant and permanent way.
+Collision: A situation where two different inputs produce the same output in a cryptographic hash function.
+Cryptography: The practice of securing information by transforming it into an unreadable format using mathematical algorithms.
+Data at rest: Refers to data that is stored in a storage device or system, such as a hard drive or database.
+Data in processing: Refers to data that is being manipulated, processed or used by a system or application.
+Data in transit: Refers to data that is being transmitted over a network or between systems.
+Decryption: The process of converting encrypted data back into its original form using a key or password.
+Downgrade attack: A type of attack where an attacker forces a system to use a less secure version of a protocol or encryption algorithm.
+Elliptic curve cryptography (ECC): A type of public-key cryptography that uses the properties of elliptic curves to generate and exchange keys.
+Encryption: The process of converting plain text into a coded form, called ciphertext, using a cryptographic algorithm and a key.
+Entropy: A measure of randomness or unpredictability used in cryptography to generate secure keys.
+Ephemeral key: A temporary cryptographic key used in a particular session, which is discarded after the session ends.
+Hardware Security Module (HSM): A physical device used to generate, store, and manage cryptographic keys and perform other cryptographic operations in a secure way.
+Hash: A mathematical function that takes an input of any length and produces a fixed-size output called a hash value or digest, used for data integrity verification, password storage, and other cryptographic purposes.
+Active-Passive: A high availability architecture where one system is active and handling traffic, while the other is passive and on standby. If the active system fails, the passive system takes over.
+Agentless: A type of software that doesn't require an agent (or client) to be installed on a device in order to manage it remotely.
+Agents: Software that is installed on a device to enable it to be managed remotely.
+Aggregators: Devices or software that collect and aggregate data from multiple sources.
+Always-On VPN: A type of VPN connection that remains connected even when the user is not actively using it, providing continuous protection.
+Anomaly Monitoring: The practice of monitoring systems and networks for unusual or suspicious behavior that may indicate a security breach or threat.
+Appliance Firewall: A firewall that is implemented as a dedicated hardware device, as opposed to a software firewall that runs on a general-purpose computer.
+Baseline Configuration: A predetermined set of configurations that are considered the minimum acceptable level for a system, application or network device.
+Behavioral Monitoring: The practice of monitoring user behavior and system activity to detect anomalies and potential security threats.
+BPDU Guard: A feature in switches that prevents rogue switches from joining the network by disabling the port if a BPDU (Bridge Protocol Data Unit) is received on that port.
+Broadcast Storm Prevention: The practice of preventing a network from being flooded with excessive broadcast traffic, which can cause network slowdowns or outages.
+Collectors: Devices or software that collect and store data from multiple sources for analysis or reporting.
+Content/URL Filtering: The practice of filtering internet traffic based on content or URLs to block access to certain websites or types of content.
+Data Loss Prevention (DLP): The practice of preventing sensitive data from being lost, stolen or leaked.
+DHCP Snooping: A feature in switches that prevents rogue DHCP servers from distributing incorrect IP addresses by monitoring and filtering DHCP traffic.
+Diagram: A visual representation of a system, network or process that shows the relationships between different components or elements.
+Key escrow: A practice of storing cryptographic keys with a third-party escrow agent to facilitate their retrieval when needed.
+Key management: The process of creating, storing, distributing, and revoking cryptographic keys in a secure manner to ensure confidentiality, integrity, and authenticity of data.
+Machine/computer digital certificate: A digital certificate that identifies a machine or computer in a networked environment and provides assurance of its authenticity.
+Offline CA: A certification authority (CA) that is not connected to a network and is used to issue digital certificates in an isolated and secure environment.
+Online CA: A certification authority that is connected to a network and issues digital certificates in a distributed environment.
+Online Certificate Status Protocol (OCSP): A protocol used to check the revocation status of a digital certificate in real-time.
+Personal Information Exchange (PFX): A file format used to store and exchange personal information, including digital certificates, private keys, and intermediate certificates.
+Pinning: A security mechanism that ensures the authenticity of a digital certificate by associating a specific public key with a domain name.
+Privacy Enhancement Mail (PEM): A file format used to store digital certificates and private keys in a Base64-encoded format.
+Public key infrastructure (PKI): A system of hardware, software, and policies used to manage the creation, distribution, and revocation of digital certificates and keys.
+Registration authority: An entity responsible for verifying the identity of users requesting digital certificates and forwarding the requests to the CA for issuance.
+Root digital certificate: A digital certificate issued by a trusted root CA that is used to establish the authenticity of other digital certificates in a PKI.
+Secure Real-time Transport Protocol (SRTP): A security protocol used to encrypt voice and video traffic in real-time communications over IP networks.
+Secure Shell (SSH): A cryptographic network protocol used to secure remote access to servers and other networked devices.
+Secure Sockets Layer (SSL): A security protocol used to encrypt and secure data transmitted over the internet.
+Secure/Multipurpose Internet Mail Extensions (S/MIME): A protocol used to secure email messages with digital signatures and encryption.
+Short Message Service (SMS): A text messaging service used by mobile devices to send short messages between individuals or groups.
+Sideloading: The process of installing an app on a mobile device from a source other than the official app store of the device's operating system.
+Smart Meters: Electronic devices that measure and record electricity usage in homes and buildings.
+Storage Segmentation: The practice of dividing data storage into multiple smaller segments or partitions to improve data management, security, and performance.
+Supervisory Control and Data Acquisition (SCADA): A system used to control and monitor industrial processes and infrastructure, such as power plants, water treatment facilities, and oil refineries.
+System on a Chip (SoC): A type of integrated circuit that contains all the necessary components of a computer or other electronic system on a single chip.
+Tethering: The process of connecting a mobile device to another device, such as a laptop or tablet, to share the device's internet connection.
+Third-Party App Store: An online marketplace that provides mobile apps to users, but is not operated by the official app store of the device's operating system.
+Unified Endpoint Management (UEM): A comprehensive approach to managing all endpoints within an organization's network, including mobile devices, desktops, laptops, and servers.
+Universal Serial Bus (USB) Connectors: A standard interface used to connect peripherals, such as keyboards, mice, and flash drives, to computers and other electronic devices.
+Unmanned Aerial Vehicle (UAV): An aircraft that is remotely piloted or self-piloted and does not require a human pilot on board.
+USB On-the-Go (OTG): A feature that allows USB devices, such as flash drives, to be used as a host or peripheral device, depending on the device being connected.
+Virtual Desktop Infrastructure (VDI): A technology that allows users to access a virtualized desktop environment from a remote device.
+Voice over IP (VoIP): A technology used to transmit voice and multimedia content over internet protocol (IP) networks.
+Algorithm: A set of steps or instructions used to solve a problem or perform a specific task.
+Asymmetric Cryptographic Algorithm: A type of cryptographic algorithm that uses two different keys, one for encryption and one for decryption.
+Hashing: A mathematical algorithm that transforms data into a fixed-size output, also known as a hash. Hashing is used to ensure data integrity and authenticity.
+High resiliency: The ability of a system to maintain its functionality and security even when under attack or experiencing disruptions.
+Key exchange: A cryptographic process of securely exchanging cryptographic keys between two parties.
+Key length: The size of a cryptographic key, usually measured in bits. Longer keys provide higher security but may also require more computational resources.
+Lightweight cryptography: A form of cryptography designed for use in resource-constrained environments, such as low-power devices and sensors.
+Longevity: The ability of a cryptographic system to remain secure over a long period of time, even as computing power and attack methods evolve.
+Low latency: The time it takes for a system to process and respond to incoming requests. In some security applications, low latency is critical to prevent delays or disruptions.
+Low-power devices: Devices that have limited energy resources, such as battery-powered devices or sensors.
+Nonrepudiation: The ability to prove that a particular action or message was performed or sent by a specific party and cannot be denied later.
+Obfuscation: The process of intentionally obscuring or hiding the true meaning or purpose of code or data.
+Opal: A self-encrypting storage device that automatically encrypts all data stored on it.
+Perfect forward secrecy: A property of cryptographic protocols that ensures that even if an attacker obtains a long-term secret key, they cannot use it to decrypt past communications.
+Post-quantum cryptography: Cryptography that is resistant to attacks from quantum computers.
+Quantum communication: The use of quantum systems to securely transmit information between two parties.
+Quantum computer: A computer that uses quantum-mechanical phenomena to perform operations on data, potentially providing much faster processing power than classical computers.
+Resource vs. security constraint: A tradeoff between the resources required to implement a security measure and the level of security it provides. In some cases, it may not be feasible to implement a security measure due to resource constraints.
+Inline: A term used in network security to describe a system or device that is placed directly in the data path and actively inspects traffic. Inline systems can be used to detect and block malicious traffic, enforce security policies, and perform other security functions in real-time.
+Internet Protocol schema: A set of rules and conventions used to govern the transmission of data over the Internet. The Internet Protocol (IP) schema specifies how data is formatted and transmitted between devices on the Internet, and includes protocols such as TCP/IP, HTTP, and FTP.
+Intranet: A private network that is accessible only to authorized users within an organization. Intranets are typically used to share information and resources among employees, and can be secured using a variety of network security measures.
+Jump box: A computer or device that is used to remotely access and manage other devices on a network. Jump boxes are typically used to provide secure access to systems that are not directly accessible from the Internet, and can be used to enforce security policies and restrict access to sensitive systems and data.
+Layer 2 Tunneling Protocol (L2TP): A protocol used to create virtual private networks (VPNs) over the Internet. L2TP works by encapsulating data packets within another protocol, such as IP or Ethernet, and can be used to provide secure remote access to corporate networks and other private networks.
+Load balancing: A technique used to distribute network traffic across multiple servers or devices in order to optimize performance, improve reliability, and prevent overload or downtime. Load balancing can be accomplished using a variety of hardware and software solutions, and can be used to improve the scalability and efficiency of networked systems.
+Loop prevention: A technique used to prevent network loops, which can occur when two or more switches or devices are connected in a way that creates a loop in the network topology. Loop prevention mechanisms can include protocols such as Spanning Tree Protocol (STP), which can detect and block redundant paths in the network in order to prevent loops from forming.
+Masking: A technique used to hide or obscure sensitive data in order to protect it from unauthorized access or disclosure. Masking can be used to protect data such as credit card numbers, Social Security numbers, and other personally identifiable information (PII) from unauthorized access or theft.
+Monitoring service: A service that provides continuous monitoring of network traffic, systems, and applications in order to detect and prevent security threats. Monitoring services can include intrusion detection and prevention systems (IDS/IPS), firewalls, antivirus software, and other security tools.
+Network access control (NAC): A security mechanism used to control access to a network by enforcing security policies and authentication requirements. NAC systems can be used to ensure that only authorized users and devices are able to connect to a network, and can be used to enforce policies such as requiring antivirus software and other security measures.
+Network address translation gateway: A device or system that translates network addresses between different networks or subnets. NAT gateways are commonly used to provide Internet access to private networks, and can be used to improve network security by hiding the IP addresses of internal systems from the Internet.
+Network hardware security module: A dedicated hardware device used to store and manage cryptographic keys and other security-related information. Hardware security modules (HSMs) can provide higher levels of security and performance than software-based solutions, and are commonly used in applications such as digital signatures, online banking, and e-commerce.
+Network intrusion detection system (NIDS): A system that monitors network traffic in order to detect and alert administrators to security threats. NIDS systems can be used to identify patterns of suspicious activity, such as network scans, unauthorized access attempts, and other indicators of compromise.
+Network Intrusion Prevention System (NIPS): A network security solution that monitors and analyzes network traffic for signs of malicious activity or policy violations, and takes action to prevent such activity from occurring. NIPS can detect and block a wide range of attacks, such as viruses, malware, DDoS attacks, and intrusions.
+Network Sensors: Devices or software that are placed on a network to collect data about network traffic and other network activities. Network sensors can detect unusual activity, identify threats and vulnerabilities, and provide information that can be used to improve network security.
+Next Generation Firewall (NGFW): A type of firewall that combines traditional firewall capabilities with additional security features, such as intrusion prevention, application awareness and control, SSL inspection, and more. NGFWs provide a more advanced and sophisticated approach to network security, allowing for greater control over network traffic and more effective protection against modern threats.
+Split Tunneling: A networking technique that allows some traffic to be sent over a VPN while other traffic is sent directly to the Internet.
+Standard Naming Conventions: A set of guidelines for naming network resources, such as devices, servers, and files, to promote consistency and ease of management.
+Stateful Packet Filtering: A type of firewall that examines the context of each packet in a session to make decisions about whether to allow or block it.
+Stateless Packet Filtering: A type of firewall that examines each packet in isolation, without reference to any other packets in the session, to make decisions about whether to allow or block it.
+Tokenization: The process of replacing sensitive data with a randomly generated string of characters, known as a token, to reduce the risk of data theft.
+Unified Threat Management (UTM): A security solution that combines multiple security functions, such as firewall, intrusion detection and prevention, and antivirus, into a single appliance.
+Virtual Firewall: A firewall that runs as a software application on a virtual machine, providing network security and isolation in a virtualized environment.
+Virtual IP (VIP): An IP address that is assigned to a virtual server or load balancer, rather than a physical device.
+Virtual LAN (VLAN): A logical network segment that groups together devices on a network, regardless of their physical location
+Virtual Private Network (VPN): A secure, encrypted connection between two or more networks or devices over the Internet.
+Web Application Firewall: A type of firewall that specifically protects web applications from attacks, such as cross-site scripting and SQL injection.
+Zero Trust: A security approach that assumes all network traffic, both internal and external, is potentially malicious and requires verification before access is granted.
+sn1per: A tool for automated reconnaissance and vulnerability scanning of web applications.
+tail: A command in Unix and Linux systems that displays the last few lines of a file in real-time as new data is added to the file.
+Tcpdump: A command-line packet sniffer and protocol analyzer used to capture and display network traffic.
+Tcpreplay: A tool used to replay previously captured network traffic for testing and analysis.
+temperature detection: The use of sensors and equipment to detect and monitor temperature changes in a given environment or system.
+theHarvester: A tool used for reconnaissance and data gathering, particularly for email addresses and related information.
+traceroute: A command-line tool used to track the path of packets as they travel across a network, revealing the routers and IP addresses they pass through.
+tracert: A Windows command similar to traceroute that traces the route of packets across a network.
+two-person integrity/control: A security practice in which two people are required to complete a task or access a resource, serving as a check and balance to prevent security breaches or errors.
+URL redirection: The technique of forwarding a URL to a different URL or web page.
+vault: A secure storage system for sensitive information, often using encryption and access controls to protect the contents.
+visitor log: A record of visitors to a facility or website, typically including information such as the visitor's name, date and time of visit, and purpose of the visit.
+Visual Basic for Applications (VBA): A programming language used to automate tasks in Microsoft Office applications and other software.
+Wireshark: A widely used network protocol analyzer used to capture and analyze network traffic.
+access control list (ACL): A list of permissions associated with a system or resource, defining who is authorized to access or modify it.
+active-active: A configuration in which multiple servers or devices are actively processing requests or data, providing redundancy and increased performance.
+Quarantine: A security measure that involves isolating potentially malicious software or files in a restricted area to prevent them from causing harm to other parts of a system.
+Registry: A database in the Microsoft Windows operating system that stores configuration settings and options for hardware, software, and the operating system.
+Sandbox: A security mechanism that isolates software applications and processes from the rest of the system, so that if they are compromised or behave maliciously, they cannot cause harm to other parts of the system.
+Scalability: The ability of a system or application to handle growing amounts of work or data without slowing down or breaking down.
+Secure coding practices and techniques: Development techniques and best practices used to ensure that software applications are designed and coded securely, with a focus on preventing vulnerabilities and protecting against attacks.
+Secure cookie: A cookie that is sent over an encrypted connection and cannot be accessed or modified by other applications or users.
+Server-side execution and validation: The process of running code on a server to perform tasks or validate user input, rather than relying on client-side execution.
+Software diversity: The use of multiple software solutions or vendors to reduce the risk of a single point of failure or attack.
+Staging stage: The phase of software development where code is tested and reviewed prior to being deployed in a production environment.
+Static code analysis: A technique used to identify vulnerabilities and defects in software code by analyzing the code itself, rather than by testing the software in a running environment.
+Stored procedure: A precompiled database object that can be executed to perform a specific task or set of tasks.
+Structured Threat Information Expression: A standardized language for exchanging and sharing threat intelligence information.
+Testing stage: The phase of software development where code is tested in a simulated environment to identify and fix issues prior to deployment.
+Third-party updates: Updates or patches provided by third-party vendors to address security vulnerabilities in their software products.
+Threat map: A visual representation of potential threats and vulnerabilities in a system or network, used to identify areas that require additional security measures or attention.
+Macro: A macro is a series of commands or instructions that are grouped together to automate a specific task within an application, such as Microsoft Word or Excel.
+Man-in-the-browser (MITB): MITB is a type of cyber attack where an attacker intercepts and modifies the communication between a web browser and a web application in real-time, without the user's knowledge.
+Man-in-the-middle (MITM): MITM is a type of cyber attack where an attacker intercepts communication between two parties, such as a web server and a client, and alters or eavesdrops on the communication.
+Mantrap: A mantrap is a security device that physically restricts access to a secure area to prevent unauthorized entry or exit.
+Moisture detection: Moisture detection is the process of detecting the presence of moisture, such as water or humidity, in a given environment.
+Motion detection: Motion detection is the process of detecting movement in a given environment, typically through the use of sensors or cameras.
+Motion recognition: Motion recognition is the process of identifying and classifying specific movements or actions based on input from sensors or cameras.
+Nessus: Nessus is a popular vulnerability scanner used to identify and assess potential vulnerabilities in computer systems and networks.
+Netstat: Netstat is a command-line tool used to display network connections, active sockets, and other network-related information on a computer system.
+Nmap: Nmap is a network exploration and security auditing tool used to discover hosts and services on a computer network, as well as identify potential vulnerabilities.
+Noise detection: Noise detection is the process of detecting unwanted or abnormal sounds in a given environment, such as a computer server room or industrial plant.
+Nslookup: Nslookup is a command-line tool used to query the Domain Name System (DNS) to obtain information about specific domains or IP addresses.
+Object detection: Object detection is the process of detecting and identifying specific objects in a given environment, typically through the use of cameras or sensors.
+OpenSSL: OpenSSL is a software library used to implement the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols for secure communication over a computer network.
+Operational Technology (OT): OT refers to the technology and systems used to monitor and control industrial processes and infrastructure, such as manufacturing plants, power grids, and transportation systems.
+Pathping: Pathping is a command-line tool used to diagnose network connectivity issues by tracing the path of packets through a network and identifying potential points of failure.
+Domain reputation: A measure of the trustworthiness of a domain name or IP address, based on factors such as the quality of the website, the reputation of the owner, and the history of the domain.
+Electronic lock: A locking device that operates through electronic signals, such as a keypad or smart card.
+Faraday cage: An enclosure made of conductive material that blocks electromagnetic fields and signals from entering or leaving the enclosed space.
+Fencing: A physical barrier used to prevent unauthorized access or entry to a location or area.
+Fire suppression: A system that uses various techniques to extinguish or suppress fires, such as sprinklers, foam, or gases.
+Grep: A command-line utility used for searching through text files or output for specific patterns or keywords.
+Head: A command-line utility used to display the first few lines of a text file or output.
+Hot aisle/cold aisle: A data center design strategy that separates hot and cold air streams to improve cooling efficiency and reduce energy costs.
+Hping: A command-line tool used for network testing, packet crafting, and firewall testing.
+Ifconfig: A command-line utility used to configure network interfaces and display network settings on Unix-based systems.
+Industrial camouflage: The use of materials or designs that blend into the surrounding environment to disguise industrial equipment or infrastructure.
+Ipconfig: A command-line utility used to view and modify network settings on Windows-based systems.
+Lighting: The use of artificial light sources for illumination in indoor or outdoor environments.
+Logger: A device or software used for recording or logging data, events, or messages for analysis or auditing purposes.
+MAC cloning attack: A type of network attack where an attacker creates a spoofed network interface with a cloned MAC address to bypass MAC filtering or access control.
+MAC flooding attack: A type of network attack where an attacker floods the switch with fake MAC addresses to overload the switch's MAC table and cause a denial-of-service condition.
+Dark web: A part of the internet that is intentionally hidden and inaccessible through standard web browsers, requiring specialized software or configurations to access.
+Data exposure: The unauthorized or accidental disclosure of sensitive information, such as personal or financial data, to individuals or entities that are not authorized to access it.
+Dead code: In software development, code that is no longer used or necessary but remains in the program and can potentially cause performance issues or security vulnerabilities.
+Deprovisioning: The process of removing access privileges and/or data from a user or system that no longer requires them, either due to termination of employment or other reasons.
+Development stage: The phase in the software development life cycle where software is designed, coded, and tested before release.
+Directory traversal: A type of web application attack that allows an attacker to access files and directories outside the web root folder by exploiting a vulnerability in the application.
+Disabling unnecessary open ports and services: The process of closing or disabling unused or unnecessary ports and services on a system or network to reduce the attack surface and improve security.
+Dynamic code analysis: The process of analyzing running code to identify potential security vulnerabilities or threats in real-time.
+Elasticity: The ability of a system or network to dynamically adjust its resources and capacity to meet changing demands or workloads.
+Endpoint detection and response (EDR): A security technology that monitors and responds to threats and attacks on endpoint devices such as computers, laptops, and mobile devices.
+File and code repositories: Online platforms or tools that allow developers to store, manage, and share source code, applications, and other digital assets.
+Fuzzing: A software testing technique that involves sending random, unexpected, or malformed input to an application to uncover potential security vulnerabilities or flaws.
+Hardware root of trust: A hardware-based security mechanism that establishes a secure foundation for the boot process and provides cryptographic protection for sensitive data and transactions.
+Host intrusion detection system (HIDS): A security technology that monitors and alerts on suspicious activity or behavior on a single host or endpoint device.
+Host intrusion prevention system (HIPS): A security technology that uses policies and rules to detect and prevent unauthorized activity or behavior on a single host or endpoint device.
+HTTP Response Headers: Information sent by a web server in response to a request from a client, which can be used to improve web application security by providing additional context or controls for the client or browser.
+Automated courses of action: predetermined steps or responses to a particular security event or incident that are automated to reduce response time and improve efficiency.
+Automated Indicator Sharing (AIS): a system for automatically sharing threat intelligence and indicators of compromise (IoCs) among organizations and systems in real-time.
+Auto-update: a process by which software automatically downloads and installs updates or patches to improve functionality and security.
+Binary: a file format that contains machine-readable code that can be executed by a computer.
+Blacklisting: a security measure that blocks access to certain IP addresses, URLs, or applications that are deemed malicious or suspicious.
+Boot attestation: a process used to verify the integrity of the boot process to ensure that the operating system and applications are running in a trusted state.
+Client-side execution and validation: a process that involves executing and validating code on the client-side, such as in a web browser, to improve performance and reduce server load.
+Closed source: software that does not make its source code available to the public, making it difficult to analyze and verify security.
+Code reuse of third-party libraries and SDKs: the practice of using pre-existing code from third-party libraries and software development kits (SDKs) to reduce development time and costs.
+Code signing: the process of digitally signing software code to ensure its authenticity and integrity.
+Compilers: software tools that translate source code into machine-readable code, allowing it to be executed by a computer.
+Continuous delivery: a software development practice that focuses on automating the software delivery process to ensure rapid and reliable deployment.
+Continuous deployment: a software development practice that involves automatically deploying new code changes to production environments as soon as they are ready.
+Continuous integration: a software development practice that involves continuously integrating code changes into a shared repository to identify and resolve conflicts early.
+Continuous monitoring: the practice of continuously monitoring systems, networks, and applications for potential security threats and vulnerabilities.
+Continuous validation: the practice of continuously validating and verifying software to ensure that it meets quality and security standards.
+Anything as a Service (XaaS): A term used to describe a variety of cloud-based services that can be provided to users over the internet. Examples include Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS).
+API inspection and integration: The process of examining and monitoring application programming interfaces (APIs) to ensure they are secure and compatible with other systems and applications.
+Application security: The practice of ensuring that software applications are designed, developed, and tested to be secure and free from vulnerabilities.
+Cloud: A network of remote servers hosted on the internet that can be used to store, manage, and process data and applications.
+Cloud access security broker (CASB): A security tool that sits between an organization's on-premises infrastructure and the cloud provider's infrastructure to monitor and manage access to cloud services.
+Cloud computing: The use of remote servers hosted on the internet to store, manage, and process data and applications.
+Cloud native controls: Security controls that are designed to operate natively within a cloud environment, such as AWS or Azure.
+Cloud security audit: An assessment of an organization's cloud infrastructure to identify security risks and vulnerabilities.
+Cloud service providers: Companies that offer cloud computing services to customers, such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+Community cloud: A type of cloud computing service that is shared by a group of organizations with common interests or requirements.
+Container: A lightweight, portable unit of software that can be run on any system that supports containerization.
+Container security: The practice of ensuring that containers and their contents are secure and free from vulnerabilities.
+Directory service: A service that stores and manages information about network resources, such as users, groups, and devices.
+Domain Name System Security Extensions (DNSSEC): A suite of security extensions for the DNS protocol that provide data integrity and authentication for DNS queries and responses.
+Dynamic resource allocation: The ability to automatically allocate and de-allocate computing resources as needed to meet changing workload demands.
+Edge: The part of a network that is closest to the end user or device, typically located at the edge of the network infrastructure.
+File Transfer Protocol (FTP): A standard protocol used for transferring files between servers and clients on a network.
+Fog: A term used to describe a decentralized computing infrastructure that places resources and data closer to the endpoints or edge devices.
+FTP Secure (FTPS): A protocol that adds a layer of security to FTP by using SSL/TLS encryption for secure data transmission.
+High availability across zones: A design approach that ensures that critical systems and applications are available and accessible in multiple geographic regions or data centers for redundancy and fault tolerance.
+Hybrid cloud: A computing environment that combines public cloud services and private cloud infrastructure.
+IMAP (Internet Mail Access Protocol): A protocol used for retrieving email messages from a mail server.
+Infrastructure as a Service (IaaS): A cloud computing model in which users rent computing resources such as servers, storage, and networking from a cloud service provider.
+Instance awareness: The ability of a cloud service or application to automatically detect and respond to changes in its environment or resource availability.
+Internet Protocol version 6 (IPv6): The latest version of the Internet Protocol (IP) that supports a larger address space and improved security features compared to its predecessor, IPv4.
+LDAP injection attacks: A type of security attack that exploits vulnerabilities in the LDAP protocol to gain unauthorized access or execute malicious code on a directory server.
+Lightweight Directory Access Protocol (LDAP): A protocol used for accessing and managing directory information services over a network.
+Managed security service provider (MSSP): A third-party company that provides managed security services to organizations to protect their systems and data from cyber threats.
+Managed service provider (MSP): A company that provides outsourced IT services and support to businesses or organizations.
+Microservices APIs: A set of protocols and tools used for developing and integrating microservices-based applications and services.
+Microservices architecture: An architectural style that structures an application as a collection of small, independent, and loosely coupled services.
+Next generation secure web gateway (SWG): A security solution that combines network security features such as web filtering, antivirus, and threat detection with cloud-based services to provide comprehensive web protection.
+off-premises: refers to resources, services or infrastructure that are located outside of an organization's physical premises, usually hosted by a third-party provider.
+on-premises: refers to resources, services or infrastructure that are located within an organization's physical premises, managed and maintained by the organization's IT department.
+Open Source Interconnection (OSI) seven-layer model: a reference model that defines the layers of communication protocols used to transmit data between networked devices, including physical, data link, network, transport, session, presentation, and application layers.
+Platform as a Service (PaaS): a cloud computing model that provides a platform for developers to build, run, and manage applications, without having to worry about the underlying infrastructure.
+Post Office Protocol (POP): an email retrieval protocol that downloads email messages from a mail server to a local email client.
+private cloud: a cloud computing model that provides dedicated infrastructure, services, and resources to a single organization, rather than sharing them with other customers.
+private subnet: a logical subdivision of an IP network that is only accessible to devices within the same network or a specified set of networks.
+public cloud: a cloud computing model that provides shared infrastructure, services, and resources to multiple customers over the internet.
+public subnet: a logical subdivision of an IP network that is accessible to devices both inside and outside the network.
+resource policies: rules and permissions that govern the use of cloud computing resources, such as storage, compute, and network resources.
+secrets management: a practice of securely storing, managing, and distributing sensitive information, such as passwords, keys, and certificates, across applications and services.
+Secure FTP (SFTP): a protocol for secure file transfer over the internet, which uses the Secure Shell (SSH) protocol for encryption and authentication.
+security groups: a virtual firewall that controls inbound and outbound traffic to Amazon Web Services (AWS) instances, and allows users to define rules that govern access to those instances.
+serverless infrastructure: a cloud computing model that allows developers to build and deploy applications without worrying about the underlying infrastructure, which is managed by the cloud provider.
+services integration: the process of combining multiple services or applications to create a new, more complex service or application.
+Simple Mail Transfer Protocol (SMTP): a protocol used for sending email messages over the internet, which defines the rules for how email clients and servers communicate with each other.
+Simple Network Management Protocol (SNMP): A protocol used to manage and monitor network devices such as routers, switches, servers, and printers.
+SNMPv3: The third version of the Simple Network Management Protocol, which added security features such as authentication and encryption.
+Software as a Service (SaaS): A cloud computing model where software applications are provided to users over the internet, eliminating the need for local installation and maintenance.
+Software-defined network (SDN): A network architecture that separates the control plane and data plane of network devices, allowing for centralized network management and programmability.
+Software-defined visibility (SDV): A method of monitoring and analyzing network traffic that uses software-based technologies to improve visibility and reduce the complexity of network monitoring.
+Thin client: A computing device that relies on a server to perform most of its processing, typically used in virtual desktop infrastructure (VDI) environments.
+Third-party solutions: Software, hardware, or services provided by vendors outside of the organization, often used to supplement or enhance existing systems and applications.
+Transit gateway: A networking component that connects multiple virtual private clouds (VPCs) and on-premises networks to enable communication between them.
+Virtual machine escape protection: Security measures implemented to prevent attackers from escaping the confines of a virtual machine and accessing the underlying host system.
+Virtual machine sprawl avoidance: Strategies for managing the proliferation of virtual machines (VMs) in a virtualized environment to avoid resource wastage and security risks.
+Virtual network: A software-based network that provides logical connectivity and isolation for virtual machines and applications, decoupled from the underlying physical network infrastructure.
+Virtualization: The process of creating a virtual version of a computer system or application, allowing multiple instances to run on a single physical server.
+5G: The fifth generation of wireless technology that offers faster data speeds, lower latency, and increased network capacity compared to previous generations.
+Ad hoc mode: A wireless networking mode in which devices communicate directly with each other without the need for a central access point or infrastructure.
+Baseband: The portion of a wireless communication system that handles the transmission and reception of signals, including modulation and demodulation.
+Bluejacking: The practice of sending unsolicited messages or business cards to nearby Bluetooth-enabled devices.
+Bluesnarfing: The unauthorized access of information from a Bluetooth-enabled device, such as contact lists, calendars, or text messages.
+Bluetooth: A wireless communication technology that enables short-range data exchange between devices, typically within a range of 10 meters.
+Captive portal AP: An access point that requires users to authenticate or agree to terms and conditions before gaining access to a network or the internet.
+Channel overlays: Techniques used in wireless networking to improve network capacity by dividing a single frequency channel into multiple virtual channels.
+Cipher Block Chaining Message Authentication Code (CBC-MAC): A method used for generating message authentication codes to ensure the integrity and authenticity of data.
+Controller AP: An access point that is centrally managed by a wireless LAN controller, allowing for centralized configuration and monitoring.
+Counter Mode with Cipher Block Chaining Message Authentication Code Protocol (CCMP): A security protocol used in Wi-Fi networks to provide encryption and message integrity.
+Disassociation attack: A type of wireless attack where an attacker sends forged disassociation frames to disconnect a client device from an access point.
+EAP-FAST: Extensible Authentication Protocol-Flexible Authentication via Secure Tunneling, a protocol used for secure authentication in wireless networks.
+EAP-TLS: Extensible Authentication Protocol-Transport Layer Security, a protocol that uses digital certificates for secure authentication in wireless networks.
+EAP-TTLS: Extensible Authentication Protocol-Tunneled Transport Layer Security, a protocol that provides a secure authentication method for wireless networks.
+Enterprise method: A type of authentication method used in enterprise environments, typically involving a centralized authentication server and user credentials.
+Evil twin: A rogue wireless access point that impersonates a legitimate access point, tricking users into connecting to it and potentially exposing their data to attackers.
+Extensible Authentication Protocol (EAP): A protocol framework used for authentication in wireless networks, providing various methods for secure authentication.
+Heat map: A graphical representation of data that shows the distribution or concentration of a specific attribute or parameter, such as signal strength or user density in a wireless network.
+IEEE 802.1x: A standard for network access control that provides authentication and port-based access control for wired and wireless networks.
+Initialization vector (IV): A random value used in encryption algorithms, particularly in block cipher modes of operation, to ensure unique encryption and prevent certain cryptographic vulnerabilities.
+Jamming: The deliberate interference or disruption of wireless communications by transmitting signals on the same frequency, causing interference and preventing normal communication.
+Media Access Control (MAC) address filtering: A security measure that allows or denies network access based on the MAC addresses of devices, which are unique identifiers assigned to network interfaces.
+Narrowband Internet of Things (NB-IoT): A Low Power Wide Area Network (LPWAN) technology designed for efficient and low-power communication of small data packets for IoT devices.
+Near field communication (NFC): A short-range wireless communication technology that allows devices to exchange data when they are in close proximity.
+Open method: An authentication method in which no authentication or encryption is used, allowing unrestricted access to a network or system.
+Payment method: A means of making financial transactions or conducting monetary exchanges, such as using credit cards, digital wallets, or mobile payment apps.
+Point-to-multipoint: A communication topology in which a single sender communicates with multiple receivers, allowing for one-to-many communication.
+Point-to-point: A communication topology in which a single sender communicates with a single receiver, allowing for direct one-to-one communication.
+Preshared key (PSK): A shared secret key that is used for authentication and encryption in wireless networks, typically entered manually or preconfigured on devices.
+Protected EAP (PEAP): An EAP authentication framework that encapsulates EAP within a secure tunnel, providing protection against eavesdropping and attacks.
+Radio frequency identification (RFID): A technology that uses radio waves to automatically identify and track objects or people, often used for inventory management, access control, or contactless payments.
+Rogue AP: A rogue access point, also known as an unauthorized or malicious access point, that is set up without authorization or knowledge of the network administrator, potentially compromising network security.
+Simultaneous Authentication of Equals (SAE): A key exchange protocol used in Wi-Fi networks to securely authenticate clients and establish a shared secret key.
+Site survey: A process of evaluating and analyzing the characteristics of a physical location to determine the optimal placement of wireless access points and ensure adequate coverage and performance.
+Subscriber Identity Module (SIM) card: A smart card used in mobile devices to securely store subscriber information, such as phone number, network authentication data, and personal data.
+Wi-Fi: A wireless networking technology that allows devices to connect to the internet or communicate with each other using radio waves.
+Wi-Fi analyzer: A tool or software application used to analyze and monitor Wi-Fi networks, providing information about signal strength, channel usage, interference, and other network parameters.
+Wi-Fi Direct: A Wi-Fi standard that enables devices to establish a direct connection with each other without the need for an access point, allowing peer-to-peer communication.
+Wi-Fi Protected Access 2 (WPA2): A security protocol used to protect Wi-Fi networks, providing strong encryption and authentication mechanisms to secure wireless communication.
+Wi-Fi Protected Setup (WPS): A method for simplifying the process of connecting devices to a Wi-Fi network by using a PIN or a push-button configuration.
+Wireless access point placement: The strategic positioning of wireless access points within a network environment to ensure optimal coverage, signal strength, and performance.
+WPA3: The next-generation security protocol for Wi-Fi networks, providing improved encryption, stronger authentication, and enhanced security features compared to WPA2.
+Zigbee: A wireless communication standard designed for low-power, low-data-rate applications, typically used in home automation, industrial control, and sensor networks.
+Attestation: The process of verifying the authenticity and integrity of a system, device, or software component, often through digital signatures or cryptographic mechanisms.
+Authentication: The process of verifying the identity of a user, device, or entity attempting to access a system or network, typically involving the presentation of credentials or proof of identity.
+Authentication app: A mobile application or software tool that generates one-time passwords or other authentication codes, often used for two-factor authentication or multi-factor authentication.
+Brute force attack: A method of attempting to gain unauthorized access to a system or network by systematically trying all possible combinations of passwords or keys until the correct one is found.
+Card cloning: The unauthorized copying of data from a legitimate card, such as a credit card or access card, onto another card to perform fraudulent transactions or gain unauthorized access.
+Challenge-Handshake Authentication Protocol (CHAP): A network authentication protocol used to verify the identity of a remote user or device by exchanging a series of challenge-response messages.
+Crossover Error Rate (CER): The point at which the False Acceptance Rate (FAR) and the False Rejection Rate (FRR) are equal in a biometric authentication system. It represents the balance between the system's ability to correctly accept legitimate users (low FRR) and reject impostors (low FAR).
+Dictionary attack: A type of password cracking technique where an attacker uses a precomputed list of words or commonly used passwords to attempt to gain unauthorized access to a system or account.
+Directory service: A software application or network service that provides a centralized database of information, such as user accounts, permissions, and resources, and allows for efficient retrieval and management of this information.
+Efficacy rate: A measure of the effectiveness or success rate of a security system, authentication method, or cybersecurity solution in achieving its intended purpose.
+Facial recognition: Biometric technology that analyzes and identifies individuals based on unique features and patterns in their facial characteristics.
+False Acceptance Rate (FAR): The percentage of times that a biometric system incorrectly accepts an impostor as a genuine user or match. It represents the system's vulnerability to false positive errors.
+False Rejection Rate (FRR): The percentage of times that a biometric system incorrectly rejects a legitimate user or match. It represents the system's vulnerability to false negative errors.
+Federation: The process of establishing trust and enabling seamless access and sharing of resources between different systems, organizations, or identity providers.
+Fingerprint: A unique pattern of ridges and valleys on the fingertips that is used for biometric identification and authentication.
+Gait: The manner or style of walking, which can be analyzed and used as a biometric identifier for authentication purposes.
+HMAC-based One-Time Password (HOTP): A one-time password algorithm that uses a secret key and a counter to generate a unique password for each authentication attempt. It is commonly used for two-factor authentication.
+Iris: The colored portion of the eye surrounding the pupil, which has unique patterns that can be captured and used for biometric identification and authentication.
+Kerberos: A network authentication protocol that provides secure authentication for client-server applications by using a trusted third-party authentication server.
+Key stretching: A technique used to increase the security of cryptographic keys by applying a computationally intensive process, such as multiple iterations of a hash function, to slow down brute force attacks.
+Knowledge-based authentication: An authentication method that verifies the identity of a user by asking questions or requesting information that only the legitimate user should know, such as passwords, PINs, or personal details.
+MicroSD HSM: A Hardware Security Module (HSM) that is integrated into a MicroSD card, providing secure storage of cryptographic keys and performing cryptographic operations.
+MS-CHAP: Microsoft Challenge-Handshake Authentication Protocol, a widely used authentication protocol that provides mutual authentication between a client and a server in a network environment.
+Multifactor authentication (MFA): An authentication method that requires users to provide multiple factors or credentials to verify their identity, typically combining something they know (password), something they have (smartphone), and/or something they are (fingerprint).
+OAuth (Open Authorization): An open standard protocol that allows users to grant third-party applications limited access to their protected resources on a web service, without sharing their credentials. It is commonly used for authorization and access delegation.
+Offline brute force attack: A type of password cracking attack where an attacker attempts to guess a password by trying all possible combinations without being connected to the target system or network.
+Online brute force attack: A type of password cracking attack where an attacker attempts to guess a password by trying all possible combinations in real-time, often by leveraging automated tools or scripts.
+OpenID: An open standard protocol that allows users to be authenticated by multiple websites or services using a single set of credentials. It enables single sign-on and simplifies the authentication process for users.
+Pass the hash: A technique used in credential theft attacks where an attacker captures and reuses the hash value of a user's password, rather than the actual password itself, to gain unauthorized access to a system or network.
+Password: A secret combination of characters, numbers, or symbols used to authenticate a user and grant access to a system, application, or online service.
+Password Authentication Protocol (PAP): A simple authentication protocol used in remote access scenarios where a client sends a username and password in plaintext to a server for authentication.
+Password crackers: Software tools or scripts designed to systematically and automatically guess or crack passwords by trying various combinations or leveraging known vulnerabilities.
+Password keys: Encryption keys derived from a user's password that are used to protect sensitive data or authenticate the user during cryptographic operations.
+Password spraying: A technique used in password-based attacks where an attacker attempts to gain unauthorized access to multiple accounts by systematically trying a small number of commonly used passwords against a large number of user accounts.
+Password vault: A secure software application or service that stores and manages passwords and other sensitive credentials in an encrypted format, providing users with a centralized and protected repository for their login information.
+Phone call: A method of authentication that involves a user receiving a phone call containing a verification code or instructions to complete the authentication process.
+Push notification: A method of authentication where a user receives a notification on their mobile device, prompting them to approve or deny an authentication request.
+RADIUS (Remote Authentication Dial-In User Service): A networking protocol that provides centralized authentication, authorization, and accounting (AAA) management for users accessing remote network services.
+Rainbow tables: Precomputed tables that contain a large number of potential plaintext-password-to-hash-value mappings, used in password cracking attacks to quickly find the original password from its hash value.
+Retina: The light-sensitive tissue at the back of the eye that contains photoreceptor cells, which can be used for biometric identification and authentication.
+Salt: A random value or string that is added to a password before it is hashed, increasing the complexity of the password hash and making it more resistant to precomputed attacks, such as rainbow tables.
+Security Assertion Markup Language (SAML): An XML-based framework for exchanging authentication and authorization data between identity providers and service providers, enabling single sign-on (SSO) functionality.
+Security key: A physical device or hardware component used for authentication and cryptographic operations. It may generate one-time passwords, provide secure storage for private keys, or serve as a physical presence factor in multifactor authentication.
+Single sign-on (SSO): A mechanism that allows users to authenticate once and gain access to multiple systems or applications without needing to reauthenticate for each individual resource.
+Skimming: The act of capturing sensitive information, such as credit card details or personal identification numbers (PINs), from the magnetic stripe of a payment card using unauthorized devices or techniques.
+Smart card: A plastic card embedded with a microchip that can store and process data securely. Smart cards are commonly used for authentication, identification, and secure storage of cryptographic keys.
+Someone you know: An authentication factor based on recognizing or verifying the identity of another person, such as through personal knowledge or relationships.
+Something you are: An authentication factor based on unique physical or behavioral characteristics of an individual, such as biometrics (fingerprint, iris, voice) or behavioral patterns (gait, typing rhythm).
+Something you can do: An authentication factor based on a specific action or behavior that only the authorized user can perform, such as a gesture, entering a PIN, or providing a specific response to a challenge.
+Something you exhibit: An authentication factor based on unique characteristics or attributes associated with an individual, such as personal preferences, behavioral patterns, or cognitive responses.
+Something you have: An authentication factor based on possessing a physical object or device, such as a security key, smart card, or mobile device.
+Something you know: An authentication factor based on knowledge that only the authorized user should possess, such as a password, PIN, or answers to specific security questions.
+Somewhere you are: An authentication factor based on the physical location or network from which the authentication attempt is made, typically used for access control or risk-based authentication.
+Static code: Refers to the source code of a program or software that remains unchanged during runtime. It is often subject to static code analysis to identify potential vulnerabilities or coding errors.
+TACACS+ (Terminal Access Controller Access Control System Plus): A protocol used for centralized authentication, authorization, and accounting (AAA) services, commonly used in network access control scenarios.
+Time-based one-time password (TOTP): A one-time password algorithm that generates unique passwords based on the current time and a shared secret key. The passwords are typically time-limited and used for two-factor authentication.
+Token: A physical or digital object that represents an individual's identity or access rights. Tokens can be used in authentication processes or access control systems to validate and authorize users.
+Token key: A cryptographic key used in token-based authentication systems to sign and verify the integrity of tokens, ensuring their authenticity and preventing tampering or unauthorized use.
+Vein: A biometric authentication factor that uses the unique patterns of veins in an individual's hand, finger, or eye to verify their identity.
+Voice: An authentication factor based on an individual's unique vocal characteristics or voiceprint, which can be used for speaker recognition and verification.
+Access control list (ACL): A list of permissions or rules that define who can access or perform actions on specific resources or objects in a computer system or network.
+Access control scheme: A framework or method used to manage and enforce access control policies, determining who is allowed to access resources and what actions they can perform.
+Accounting: The process of tracking and recording user activities, resource usage, and system events for the purpose of auditing, billing, or monitoring.
+Admissibility: The assessment of whether evidence or information is legally acceptable and can be used in a court of law.
+Artifacts: Digital traces or remnants left behind by user activities or system operations, which can be analyzed and used as evidence during forensic investigations.
+Attribute-Based Access Control (ABAC): An access control model that grants or denies access based on attributes associated with the user, resource, and environment.
+Authentication servers: Servers or systems responsible for verifying the identity of users or entities attempting to access a network or system.
+Authorization: The process of granting or denying access to resources based on the authenticated user's permissions, privileges, or attributes.
+Autopsy: A digital forensics platform used for analyzing and examining digital evidence from computer systems and storage devices.
+Cache: A temporary storage location that stores frequently accessed data or files to improve system performance and reduce the need for accessing the original source.
+Call manager: A system or software used for managing voice communication, such as routing calls, managing extensions, and providing call control features.
+Chain of custody: The documented record of custody, control, and location of physical or digital evidence from the time it is collected until its presentation in a legal proceeding, ensuring its integrity and admissibility.
+Communication plan: A documented strategy or plan outlining how information is disseminated, stakeholders are notified, and communication is managed during incidents or emergencies.
+Conditional access: A security mechanism that grants or denies access to resources based on predefined conditions or criteria, such as user location, device compliance, or time of access.
+Containment: The process of isolating or quarantining compromised systems or network segments to prevent further spread of threats or unauthorized activities.
+Cyber Kill Chain: A framework used to describe the different stages of a cyber attack, from the initial reconnaissance to the final objective, helping organizations understand and defend against advanced threats.
+Data breach notification law: Laws or regulations that require organizations to notify individuals or authorities when a data breach occurs, ensuring affected parties are informed and appropriate actions are taken.
+Data controller: The entity or organization that determines the purposes and means of processing personal data, often responsible for complying with data protection regulations.
+Data custodian/steward: The individual or role responsible for managing and safeguarding data assets, ensuring their integrity, availability, and compliance with relevant policies.
+Data owner: The individual or entity that has legal or operational control over data assets, typically responsible for making decisions regarding their use, sharing, and protection.
+Data privacy officer (DPO): An individual designated within an organization to oversee and ensure compliance with data protection and privacy laws and regulations.
+Data processor: An entity or organization that processes personal data on behalf of the data controller, following the controller's instructions and obligations.
+dd: A command-line utility used for low-level copying and conversion of data, often used for disk imaging or forensic data acquisition.
+Diamond Model of Intrusion Analysis: A framework used to analyze and understand cyber intrusions, mapping the relationships between adversaries, infrastructure, capabilities, and objectives.
+Discretionary Access Control (DAC): An access control model where the owner or custodian of a resource determines who has access and what permissions are granted.
+Dump file: A file that contains the memory contents or specific data extracted from a system or application, often used for analysis, debugging, or forensic purposes.
+Echo: A network diagnostic utility used to send ICMP echo request packets to a target host and receive corresponding echo reply packets, commonly used for network troubleshooting and connectivity testing.
+e-discovery: The process of identifying, preserving, collecting, reviewing, and producing electronic information as evidence in legal cases or investigations.
+Eradication: The process of eliminating or removing threats or malicious entities from an affected system or network to prevent further damage or unauthorized access.
+Exercises: Planned activities or simulations designed to test the effectiveness of security measures, response plans, or disaster recovery procedures.
+Exploitation frameworks: Software frameworks or platforms that provide a collection of tools, techniques, and resources for discovering and exploiting vulnerabilities in systems or networks.
+Filesystem permissions: Access controls and permissions associated with files and directories in a filesystem, determining who can read, write, or execute them.
+Firmware: Software or code embedded in hardware devices that provides low-level control and functionality, typically stored in non-volatile memory.
+Forensics: The practice of collecting, analyzing, and preserving digital evidence to investigate and document cyber incidents or crimes.
+FTK Imager: A forensic imaging tool used to create forensic images of storage devices, allowing for the preservation and analysis of digital evidence.
+Generic account: An account with shared or common credentials that is not associated with a specific individual but used by multiple users for general or administrative purposes.
+Guest account: An account with limited privileges provided to temporary or unauthenticated users for accessing certain resources or services.
+Identification: The process of verifying and establishing the identity of individuals or entities, typically through the use of credentials, biometrics, or other authentication factors.
+Incident response plan: A documented framework or set of procedures that outlines the steps to be taken in response to a security incident, guiding the incident response team's actions.
+Incident response process: The structured and coordinated approach taken by an organization's incident response team to detect, respond to, and mitigate security incidents.
+Incident response team: A dedicated group of individuals responsible for coordinating and executing the organization's response to security incidents, typically including representatives from IT, security, legal, and management.
+IPFIX (IP Flow Information Export): A standard protocol used for exporting network flow information, providing detailed information about network traffic patterns and behaviors.
+Isolation: The act of separating or segregating compromised or potentially malicious systems or network segments to prevent further damage or unauthorized access.
+journalctl: A command-line utility used for querying and viewing logs from the systemd journal, which stores system logs and other event data.
+Legal hold: The process of preserving and protecting potentially relevant data or evidence from alteration or deletion when litigation, investigations, or audits are anticipated or initiated.
+Lessons learned: The process of documenting and analyzing the outcomes, experiences, and insights gained from security incidents, audits, or exercises to improve future practices and prevent recurrence.
+Log: A record or entry generated by a system or application that captures relevant events, activities, or status information for monitoring, troubleshooting, or forensic analysis.
+Mandatory Access Control (MAC): An access control model where access decisions are determined by a central authority or security policy, typically based on labels, classifications, or predefined rules.
+Memdump: The process of capturing or extracting the contents of a system's memory or specific memory regions, often used for analysis, debugging, or forensic investigations.
+Metadata: Descriptive information or attributes that provide additional context, characteristics, or properties about a file, document, or data object.
+MITRE ATT&CK: A framework and knowledge base maintained by MITRE Corporation that categorizes and describes adversary techniques and tactics used in cyber attacks.
+NetFlow: A network protocol used for collecting and recording network flow data, providing insights into network traffic patterns, volume, and sources/destinations.
+nxlog: An open-source log management tool used for collecting, processing, and forwarding log data from various sources to centralized log management systems.
+Order of volatility: The principle that defines the sequence or priority in which volatile data or artifacts should be collected and preserved during forensic investigations, considering the likelihood of data loss or alteration.
+OS event logs: Logs generated by the operating system that record various events, activities, and errors occurring on a system, often used for troubleshooting, auditing, and forensic analysis.
+Pagefile: Also known as a swap file, it is a reserved space on a computer's hard drive used as virtual memory by the operating system when physical memory (RAM) is full.
+Playbook: A documented set of procedures, guidelines, and responses that define the actions to be taken in specific scenarios or situations, commonly used in incident response or security operations.
+Preparation: The process of making necessary arrangements, establishing protocols, and implementing security measures to be ready for potential incidents or emergencies.
+Preservation of the evidence: The practice of ensuring the integrity, confidentiality, and availability of digital evidence by taking appropriate steps to protect and safeguard it during investigations or legal proceedings.
+Privileged access management: The practice of managing and controlling privileged accounts, credentials, and access rights to critical systems or sensitive information, minimizing the risk of unauthorized access or misuse.
+Provenance: The history, origin, and lineage of data or digital artifacts, documenting their creation, modification, and movement throughout their lifecycle.
+Recovery: The process of restoring systems, data, or operations to a functional state after a disruption, such as a security incident or system failure.
+Regulatory/jurisdiction: Pertaining to laws, regulations, or legal frameworks that govern data protection, privacy, and security practices, varying based on geographical location or industry.
+Response and recovery controls: Measures, processes, and strategies implemented to detect, respond to, and recover from security incidents or disruptions effectively.
+Retention policy: A documented policy that defines the duration, storage requirements, and disposal rules for retaining different types of data or records, ensuring compliance with legal, regulatory, or business requirements.
+Right to audit clause: A contractual clause or provision that grants the right to conduct audits or inspections to ensure compliance, security, or quality standards are met.
+Role-Based Access Control (RBAC): An access control model that grants permissions and access rights based on predefined roles assigned to users, simplifying administration and ensuring least privilege.
+rsyslog: An open-source software utility used for collecting, processing, and forwarding log data in UNIX and Linux systems, providing advanced features and flexibility for log management.
+Rule-Based Access Control (RBAC): An access control model where access decisions are based on a set of predefined rules or policies, determining whether access should be granted or denied.
+Runbook: A document or manual that contains step-by-step instructions, procedures, and operational guidelines for managing and operating systems, applications, or IT processes.
+SEAndroid: Security-Enhanced Android, a security extension of the Android operating system that implements mandatory access control (MAC) policies to enforce system-wide security and separation.
+Service account: An account used by a service, application, or system process to authenticate and access resources, typically with predefined privileges and limited user interaction.
+Session Initiation Protocol (SIP): A protocol used for initiating, modifying, and terminating interactive communication sessions, such as voice and video calls, over IP networks.
+sFlow: A network monitoring technology that collects and samples network traffic data for performance analysis, troubleshooting, and security monitoring purposes.
+Shared account: An account that is shared by multiple users for accessing resources or performing specific tasks. It is often used for convenience but can pose security risks if not properly managed.
+Simulation: The process of creating a model or replica of a system, process, or event to observe and analyze its behavior or outcomes, often used for testing, training, or decision-making purposes.
+Snapshot: A point-in-time copy or backup of a system, data, or configuration, capturing the system's state at a specific moment, allowing for recovery or analysis.
+Stakeholder management: The process of identifying, engaging, and managing individuals or groups with a vested interest or influence in a project, initiative, or organization, ensuring their needs and expectations are considered and addressed.
+Strategic counterintelligence: The proactive activities and measures taken to identify, assess, and counteract espionage, sabotage, or other intelligence threats to protect an organization's sensitive information, assets, or operations.
+Strategic intelligence: The analysis and gathering of information and insights related to the broader strategic goals, risks, opportunities, and challenges faced by an organization, industry, or government entity.
+Swap file: A file on a computer's hard drive used for virtual memory management, temporarily storing data that exceeds the available physical memory (RAM).
+Syslog: A standard protocol used for forwarding and collecting log messages in a networked environment, enabling centralized logging and analysis of system and network events.
+Syslog-ng: An open-source implementation of the syslog protocol, offering advanced features and flexibility for centralized log management, filtering, and processing.
+Tabletop: A type of exercise or simulation where participants discuss and analyze hypothetical scenarios or situations, often involving decision-making, problem-solving, or crisis management.
+Tags: Labels or keywords attached to data, files, or resources to categorize or identify them, enabling easier organization, retrieval, or analysis.
+Time offset: The difference or time gap between two different time references or time zones.
+Time stamp: A recorded or embedded indication of the date and time when an event, transaction, or data entry occurred, used for chronological ordering, auditing, or synchronization purposes.
+User account: A digital identity assigned to an individual user, allowing them to authenticate and access resources, systems, or applications, typically associated with specific permissions or privileges.
+Walkthrough: A step-by-step guided review or examination of a process, system, or document to identify issues, validate functionality, or provide training or orientation.
+WinHex: A hexadecimal editor and disk editor software used for low-level data manipulation, analysis, and recovery in various data storage devices and file systems. It is commonly used in computer forensics and data recovery.
+Acceptable Use Policy (AUP): A policy that outlines the acceptable and appropriate use of an organization's computer systems, networks, and resources by employees or other authorized individuals.
+Access policy: A policy that defines the rules and guidelines for granting and managing access to an organization's systems, applications, data, and facilities.
+Account Audits: The process of reviewing and assessing user accounts and their associated permissions, privileges, and activities to ensure compliance with security policies and best practices.
+Account permissions: The specific rights, privileges, and access levels assigned to a user account, determining what actions or resources the account can access or modify.
+Asset management policy: A policy that establishes guidelines and procedures for identifying, tracking, and managing an organization's physical and digital assets throughout their lifecycle.
+Background checks: A process of investigating an individual's personal, educational, and professional history, including criminal records, employment verification, and references, to assess their suitability for employment or access to sensitive information.
+Backup copy: A duplicate or copy of data or information that is created and stored separately from the original, serving as a precautionary measure in case of data loss or system failure.
+Business continuity plan (BCP): A comprehensive plan that outlines the strategies, procedures, and resources to be used in the event of a disruption or disaster to ensure the continuity of critical business operations.
+Business impact analysis (BIA): The process of assessing and evaluating the potential impact of a disruption or loss of business operations, systems, or resources, often used to prioritize recovery efforts and allocate resources effectively.
+Change control policy: A policy that defines the procedures, approvals, and controls required for making changes to systems, applications, configurations, or processes within an organization to minimize risks and ensure stability and security.
+Change management policy: A policy that outlines the procedures and guidelines for managing and implementing changes to systems, applications, or infrastructure, ensuring that changes are planned, tested, and approved to minimize disruption and maintain stability.
+Clean desk space: The practice of maintaining a clutter-free and secure workspace by securely storing or disposing of sensitive documents, media, or equipment when not in use, reducing the risk of unauthorized access or information exposure.
+Cold site: An alternate off-site location equipped with basic infrastructure and utilities where an organization can temporarily resume operations after a disaster or disruption, typically with a longer recovery time objective.
+Continuity of operation planning (COOP): The process of developing strategies and plans to ensure the continued availability and delivery of critical services or functions during and after a wide range of potential disruptions or emergencies.
+Credential policies: Policies that establish guidelines and requirements for the creation, management, and protection of user credentials, such as passwords, usernames, or digital certificates.
+Data backup: The process of creating copies of data to protect against data loss, typically stored in separate locations or media to provide redundancy and facilitate recovery in case of accidental deletion, hardware failure, or other incidents.
+Data classification policy: A policy that defines the criteria, guidelines, and procedures for categorizing and labeling data based on its sensitivity, value, and regulatory requirements, enabling appropriate security controls and handling procedures.
+Data governance policy: A policy that outlines the principles, guidelines, and procedures for managing and protecting an organization's data throughout its lifecycle, including data quality, privacy, security, and compliance.
+Data retention policy: A policy that specifies how long certain types of data should be retained, the storage and disposal methods, and any legal or regulatory requirements for data retention.
+Differential backup: A backup method that copies only the changes made since the last full backup, reducing the time and storage space required compared to a full backup.
+Disablement: The process of deactivating or disabling a system, account, user access, or service to prevent unauthorized use, maintain security, or respond to a security incident.
+Disaster recovery plan (DRP): A comprehensive plan that outlines the strategies, procedures, and resources to be used in the event of a major disruption or disaster to restore and recover critical systems, applications, and data.
+Distance considerations: The assessment and planning of physical distance between primary and secondary data centers or backup sites to ensure sufficient geographical separation to mitigate risks of simultaneous impact from localized disasters or events.
+Diversity: The intentional design and implementation of redundant and diverse systems, networks, or infrastructure components to minimize the risk of a single point of failure and increase system resilience and availability.
+Dual power supply: The provision of redundant power sources, such as uninterruptible power supplies (UPS) or backup generators, to ensure continuous power availability in the event of a power outage or failure.
+Environmental disasters: Catastrophic events or incidents caused by natural elements, such as floods, earthquakes, hurricanes, fires, or extreme weather conditions, that can disrupt or damage physical infrastructure and impact business operations.
+External disasters: Catastrophic events or incidents caused by external factors, such as terrorist attacks, acts of sabotage, or civil unrest, that can result in widespread disruption, damage, or loss of infrastructure or services.
+Full backup: A backup method that copies all data and files from a system or storage device, creating a complete replica that can be used to restore the system in its entirety in case of data loss or system failure.
+Functional recovery plan: A plan that outlines the procedures, resources, and actions to be taken to restore critical business functions, systems, or processes to an operational state following a disruption or disaster.
+Generator: An electrical power source that can generate electricity, typically using fuel or alternative energy sources, to provide backup power during power outages or as an alternative power supply in remote or off-grid locations.
+Geographic dispersal: The distribution of critical systems, data centers, or infrastructure across multiple geographic locations to reduce the risk of a single localized event impacting all operations and ensure continuity of services.
+High availability: The design and implementation of systems, networks, or infrastructure with redundant components and failover mechanisms to provide continuous availability, minimize downtime, and ensure uninterrupted access to services.
+Hot site: An alternate off-site location equipped with infrastructure, hardware, software, and data replication capabilities to quickly resume critical business operations after a disaster or disruption, typically with a shorter recovery time objective.
+Identification of critical systems: The process of identifying and prioritizing the systems, applications, and data that are essential for the operation and continuity of the organization. This helps in focusing resources and implementing appropriate security measures and backup strategies.
+Image backup: A type of backup that creates a complete copy or snapshot of an entire system or disk, including the operating system, applications, and data. It allows for the restoration of the system to a specific point in time, providing a full recovery solution.
+Impossible Travel: An anomaly detection technique used in cybersecurity to identify instances where a user's account shows activity that is geographically impossible within a short time frame, indicating potential unauthorized access or compromised credentials.
+Incremental backup: A backup method that copies only the changes made since the last backup, whether it was a full backup or an incremental backup. It reduces backup time and storage requirements but requires the restoration of multiple backups to fully recover the system.
+Internal disasters: Catastrophic events or incidents caused by internal factors within an organization, such as accidental damage, equipment failure, power outages, or human error, that can disrupt or impact business operations.
+Job rotation: A practice where employees are periodically moved or rotated between different roles, responsibilities, or departments within an organization. It helps prevent knowledge silos, increase cross-functional skills, and reduce the risk of fraud or security breaches.
+Last known good configuration: A recovery option that allows a system to be restored to a previously known stable state or configuration that is known to be working correctly. It can be useful in troubleshooting and recovering from system failures or configuration errors.
+Least privilege: The principle of granting users or processes only the minimum permissions and privileges necessary to perform their authorized tasks. It helps reduce the risk of unauthorized access, data breaches, and the potential impact of compromised accounts.
+Live boot media: An operating system or software that can be booted directly from external media, such as a USB drive or DVD, without installing it on the local hard drive. It allows for running the system or performing diagnostics without modifying the existing installation.
+Lockout: A security measure that temporarily or permanently blocks access to a system, account, or network due to repeated failed login attempts, suspicious activity, or violation of security policies. It helps protect against brute-force attacks and unauthorized access.
+Mandatory vacations: A policy or practice that requires employees to take periodic time off from work, usually for a consecutive number of days. It helps detect fraudulent activities, reduce the risk of unauthorized actions, and identify potential security breaches in an employee's absence.
+Man-made disasters: Catastrophic events or incidents caused by human actions, such as intentional attacks, sabotage, terrorism, or accidental mistakes, that can result in severe disruptions, damages, or loss of infrastructure, data, or services.
+Mean time between failures (MTBF): A metric used to measure the average time between failures of a system or component. It provides an indication of the system's reliability and is often used to plan maintenance activities and estimate system availability.
+Mean time to recovery (MTTR): A metric used to measure the average time it takes to recover a system or service after a failure or disruption. It includes the time spent detecting the issue, diagnosing the problem, and restoring the system to an operational state.
+Mission-essential function: The critical activities, operations, or functions that an organization must perform to achieve its primary objectives or deliver essential services. Identifying and protecting mission-essential functions is vital for business continuity planning and disaster recovery.
+Multipath: A networking or storage configuration that provides redundant or alternative paths between devices or systems to ensure continuous connectivity and data access in case of failures or disruptions in the primary path.
+Network-attached storage (NAS): A storage device or server that is connected to a network and provides file-level data storage and access to multiple clients or users. NAS systems are designed for centralized data storage, sharing, and backup.
+Network Location: A concept in computer networks that refers to the physical or logical position of a device or resource on the network. It can be used to define network boundaries, access controls, and routing decisions.
+NIC teaming: Also known as network interface card (NIC) bonding or link aggregation, NIC teaming is the practice of combining multiple physical network interfaces into a single virtual interface to increase bandwidth, fault tolerance, and load balancing.
+Nondisclosure agreement (NDA): A legal contract or agreement between two or more parties that outlines the confidential information they will share and the restrictions on its disclosure. NDAs are commonly used to protect sensitive or proprietary information.
+Nonpersistent: Refers to a computing environment or configuration where any changes made by a user or application are not permanently saved or preserved after the session ends. Nonpersistent systems are typically reset or restored to a default state for each new session.
+Offboarding: The process of managing an employee's departure from an organization, including the termination of access rights, return of company assets, knowledge transfer, and any necessary administrative tasks.
+Onboarding: The process of integrating and orienting a new employee into an organization. It involves providing necessary training, access to systems and resources, and familiarizing them with the organization's policies, culture, and expectations.
+Organizational policies: Set of guidelines, rules, and procedures established by an organization to govern its operations, activities, and conduct. These policies cover various aspects such as security, privacy, ethics, usage of resources, and employee behavior.
+Password complexity: A policy or requirement that defines the criteria for creating strong and secure passwords. It typically includes a combination of different character types (uppercase, lowercase, numbers, symbols) and a minimum length.
+Password history: A security feature that tracks and remembers a user's previous passwords, preventing them from reusing the same or similar passwords within a specified period. It enhances password security and mitigates the risk of password reuse.
+Password reuse: The practice of using the same password across multiple accounts or systems. Password reuse increases the risk of a security breach since compromising one account can potentially grant unauthorized access to other accounts as well.
+Policy: A set of rules, guidelines, or principles established by an organization to govern specific aspects of its operations, behavior, or decision-making. Policies provide a framework for consistent and compliant actions within the organization.
+Power distribution unit (PDU): A device used in data centers or server rooms to distribute electrical power to multiple computing devices, such as servers, networking equipment, or storage systems. PDUs provide surge protection, load balancing, and monitoring capabilities.
+RAID (Redundant Array of Independent Drives or Redundant Array of Inexpensive Disks): A data storage technology that combines multiple physical disk drives into a single logical unit to improve data reliability, availability, and performance. RAID systems use various configurations (RAID levels) to provide redundancy and data protection.
+Recovery Point Objective (RPO): The maximum acceptable amount of data loss, measured in time, that an organization is willing to tolerate in the event of a system failure or disaster. RPO defines the point in time to which data must be restored to resume operations.
+Recovery Time Objective (RTO): The maximum acceptable downtime or duration within which a system, service, or process must be restored after a failure or disaster. RTO specifies the time limit within which normal operations must be resumed to minimize the impact on the organization.
+Redundancy: The concept of duplicating critical components, systems, or resources to ensure high availability, fault tolerance, and resilience. Redundancy aims to eliminate single points of failure and maintain system functionality in the event of failures or disruptions.
+Replication: The process of creating and maintaining copies of data or resources in multiple locations or systems. Replication improves data availability, facilitates load balancing, and enhances fault tolerance and disaster recovery capabilities.
+Restoration order: The predetermined sequence or priority in which systems, services, or resources are restored during a recovery process. The restoration order ensures that critical components are recovered first, followed by less critical ones, to minimize the impact of a disruption or disaster.
+Revert to known state: The act of restoring a system, application, or environment to a previously known and verified state, typically a clean or trusted state. Reverting to a known state can help eliminate potential issues or unwanted changes introduced by malicious activity or system failures.
+Risky IP address: An IP address that is associated with suspicious or malicious activity, such as unauthorized access attempts, spamming, or hacking. Identifying and monitoring risky IP addresses can help enhance security and mitigate potential threats.
+Scalability: The ability of a system, application, or infrastructure to handle increased workloads, user demand, or data volume without compromising performance, availability, or functionality. Scalability often involves the ability to add or remove resources dynamically as needed.
+Separation of duties: A principle that requires dividing critical tasks, responsibilities, or access privileges among multiple individuals to prevent fraud, errors, or malicious activities. Separation of duties helps ensure checks and balances, reduces the risk of insider threats, and supports accountability.
+Single point of failure: A component, system, or resource that, if it fails or malfunctions, can cause the entire system or process to fail. Single points of failure pose a significant risk to the availability and reliability of a system and are typically addressed through redundancy or mitigation measures.
+Site risk assessment: An evaluation or analysis of the potential risks and vulnerabilities associated with a physical location, such as a data center, office, or facility. Site risk assessments help identify security, environmental, or operational risks and guide the implementation of appropriate controls and safeguards.
+Snapshot: A point-in-time copy or image of a system, data, or configuration. Snapshots capture the state of a system or data at a specific moment, allowing for backup, recovery, or analysis purposes. Snapshots can be used to restore systems to a previous state or create consistent backups.
+Social media analysis: The process of monitoring, collecting, and analyzing data from social media platforms to gain insights, detect trends, or identify risks or opportunities. Social media analysis can be used for reputation management, customer sentiment analysis, or threat intelligence gathering.
+Storage Area Network (SAN): A specialized network infrastructure that provides high-speed access to shared storage resources, such as disk arrays or tape libraries. SANs are commonly used in data centers to centralize storage and enable efficient data management, backup, and retrieval.
+Time of day: A factor or parameter used to control access, privileges, or system behavior based on the current time. Time-based controls can enforce restrictions or permissions during specific periods, such as granting access only during business hours or applying different security measures during off-peak times.
+Time-based login: A security feature or authentication mechanism that grants access to a system or application based on a specific time-based criteria. Time-based logins can require users to provide credentials within a defined timeframe or grant access only during predetermined time windows.
+Uninterruptible Power Supply (UPS): A device or system that provides emergency power to connected devices or systems in the event of a power outage or disruption. UPS units typically use batteries or alternative power
+Warm site: A backup facility or location that is partially equipped and ready to take over operations in the event of a primary site failure. Warm sites have essential infrastructure and data backups but may require additional configuration or restoration.
