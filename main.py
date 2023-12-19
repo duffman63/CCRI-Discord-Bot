@@ -2,6 +2,7 @@
 import discord
 from discord.ext import commands
 import random
+import time
 
 f = open("token.txt")
 token = f.read()
@@ -9,8 +10,20 @@ f.close()
 
 intents = discord.Intents.default()
 intents.message_content = True
-bot = commands.Bot(command_prefix='?', intents=intents)
+bot = commands.Bot(command_prefix='?', intents=intents,help_command=None)
 
+@bot.command()
+async def help(ctx):
+	await ctx.send("""CCRI Cybersecurity Discord Bot
+
+Command Prefix: ?
+Commands:
+```
+	help: Displays this message.
+	ping: Pings the bot.
+	term: Defines a Security+ term.
+```
+""")
 @bot.command()
 async def ping(ctx):
 	await ctx.send('pong')
@@ -20,7 +33,8 @@ async def term(ctx):
 	terms = f.read().split("\n")
 	f.close()
 	random.shuffle(terms)
-	await ctx.send(terms[0].split(": ")[0])
-	await ctx.send(terms[0].split(": ")[1])
+	myterm = await ctx.send(terms[0].split(": ")[0])
+	time.sleep(3)
+	await myterm.edit(content=terms[0])
 
 bot.run(token)
