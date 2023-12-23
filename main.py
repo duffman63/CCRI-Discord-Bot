@@ -3,9 +3,10 @@ from discord.ext import commands
 import random
 import asyncio
 import time
+import os
 
-def load_terms():
-    with open(GasGastropoda/CCRI-Discord-Bot/terms.txt, 'r') as file:
+def load_terms(file_path):
+    with open(file_path, 'r') as file:
         lines = file.readlines()
         terms_definitions = [line.strip().split(':') for line in lines]
     return dict(terms_definitions)
