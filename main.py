@@ -14,7 +14,7 @@ intents = discord.Intents.default()
 intents.messages = True
 client = discord.Client(intents=intents)
 
-# reminder to load token from another file (google "how to import variable from another file")
+
 TOKEN = ''
 TERMS_FILE = 'terms.txt'
 
@@ -39,7 +39,12 @@ async def on_message(message):
     
     if message.content.lower() == '!startquiz':
         current_term, current_def = random.choice(list(terms_dict.items()))
+        
+        # init start_time
+        start_time = time.time()
+
         await message.channel.send(f'Quiz started! What term(s) matches the following definition: **{current_def}**?')
+
 
         timeout_task = asyncio.create_task(quiz_timeout_task(message.channel))
         await timeout_task
@@ -72,3 +77,23 @@ async def on_message(message):
         #calculating points based on response time
         points = max(0, round((quiz_timeout - elapsed_time) * 10))
         user_id = str(message.author.id)
+
+        # awarding points and updating point dict
+        points_dict[user_id] = points_dict.get(user_id, 0) + points
+
+        await message.channel.send(f'Correct! {message.author.mention} guessed the term and earned {points} points!')
+        current_term, current_def, message_count = None, None, 0
+
+    elif message.content.lower().startswith('!leaderboard'):
+        leaderboard = sorted(points_dict.items(), key=lambda x: x[1], reverse=True)
+        leaderboard_str = '\n'.join(f'{index + 1}. {client.get_user(int(user_id))}: {points}' for index, (user_id, points) in enumerate(leaderboard))
+        await message.channel.send(f'leaderboard:\n{leaderboard_str}')
+
+async def quiz_timeout_task(channel):
+    await asyncio.sleep(quiz_timeout)
+    if current_term is not None:
+        await channel.send(f'Time is up! The correct answer was: **{current_term}**')
+        current_term, current_def, message_count = None, None, 0
+
+# executing
+client.run(TOKEN)
