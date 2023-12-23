@@ -15,7 +15,7 @@ intents.messages = True
 client = discord.Client(intents=intents)
 
 # reminder to load token from another file (google "how to import variable from another file")
-TOKEN = MTE4Nzk2ODQyMTA2NTkxNjQxNg.G-4YvF.4qvLxhTphTW-0He-pUqEkUjhyJDhOKkGaiJTDg
+TOKEN = ''
 TERMS_FILE = 'terms.txt'
 
 terms_dict = load_terms(TERMS_FILE)
