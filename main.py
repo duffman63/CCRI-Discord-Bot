@@ -3,7 +3,8 @@ from discord.ext import commands
 import random
 import asyncio
 import time
-import os
+from fuzzywuzzy import fuzz
+
 
 def load_terms(file_path):
     with open(file_path, 'r') as file:
@@ -84,6 +85,14 @@ async def on_message(message):
 
         await message.channel.send(f'Correct! {message.author.mention} guessed the term and earned {points} points!')
         current_term, current_def, message_count = None, None, 0
+
+    elif current_term is not None:
+        similarity_score = fuzz.ratio(message.content.lower(), current_term.lower())
+        if similarity_score >= 70:
+            await message.channel.send(f"Close! you're {100 - similarity_score}% close!")
+        else:
+            await message.channel.send(f'Nope! Try again.')
+
 
     elif message.content.lower().startswith('!leaderboard'):
         leaderboard = sorted(points_dict.items(), key=lambda x: x[1], reverse=True)
