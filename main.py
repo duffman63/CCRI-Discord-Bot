@@ -16,8 +16,14 @@ intents = discord.Intents.default()
 intents.messages = True
 client = discord.Client(intents=intents)
 
+# importing env var from .env
+from dotenv import load_dotenv
 
-TOKEN = ''
+import os
+discord_token = os.getenv("DISCORD_TOKEN")
+db_api_key = os.getenv("DB_API_KEY")
+
+TOKEN = discord_token
 TERMS_FILE = 'terms.txt'
 
 terms_dict = load_terms(TERMS_FILE)
@@ -27,6 +33,7 @@ message_count = 0
 quiz_int_messages = 5
 quiz_timeout = 30
 points_dict = {}
+
 
 @client.event
 async def on_ready():
