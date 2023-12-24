@@ -4,7 +4,29 @@ import random
 import asyncio
 import time
 from fuzzywuzzy import fuzz
+import os
+from dotenv import load_dotenv
 
+# loading environment variables from .env
+load_dotenv()
+
+# token check
+discord_token = os.getenv("DISCORD_TOKEN")
+TOKEN = discord_token
+if TOKEN is None:
+    print('Error: Discord token not found in .env file.')
+    exit(1)
+
+# text file check
+TERMS_FILE = 'terms.txt'
+if not os.path.isfile(TERMS_FILE):
+    print("Error: Terms file not found. Make sure 'terms.txt' exists in the same folder as the script.")
+    exit(1)
+
+terms_dict = {}
+
+ # database check
+db_api_key = os.getenv("DB_API_KEY")   
 
 def load_terms(file_path):
     with open(file_path, 'r') as file:
@@ -15,16 +37,6 @@ def load_terms(file_path):
 intents = discord.Intents.default()
 intents.messages = True
 client = discord.Client(intents=intents)
-
-# importing env var from .env
-from dotenv import load_dotenv
-
-import os
-discord_token = os.getenv("DISCORD_TOKEN")
-db_api_key = os.getenv("DB_API_KEY")
-
-TOKEN = discord_token
-TERMS_FILE = 'terms.txt'
 
 terms_dict = load_terms(TERMS_FILE)
 current_term = None
