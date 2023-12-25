@@ -1,44 +1,23 @@
+#!/usr/bin/python3
 import discord
 from discord.ext import commands
 import random
-import asyncio
 import time
-from fuzzywuzzy import fuzz
 import os
-from dotenv import load_dotenv
+import asyncio
 
-# loading environment variables from .env
-load_dotenv()
+#token
+f = open("token.txt")
+token = f.read()
+f.close()
+intents = discord.Intents.all()
+bot = discord.Client(intents=intents)
 
-# token check
-discord_token = os.getenv("DISCORD_TOKEN")
-TOKEN = discord_token
-if TOKEN is None:
-    print('Error: Discord token not found in .env file.')
-    exit(1)
-
-# text file check
-TERMS_FILE = 'terms.txt'
-if not os.path.isfile(TERMS_FILE):
-    print("Error: Terms file not found. Make sure 'terms.txt' exists in the same folder as the script.")
-    exit(1)
-
-terms_dict = {}
-
-# database check
-db_api_key = os.getenv("DB_API_KEY")   
-
-def load_terms(file_path):
-    with open(file_path, 'r') as file:
-        lines = file.readlines()
-        terms_definitions = [line.strip().split(':') for line in lines]
-    return dict(terms_definitions)
-
-intents = discord.Intents.default()
-intents.messages = True
-client = discord.Client(intents=intents)
-
-terms_dict = load_terms(TERMS_FILE)
+#quiz init
+with open("terms.txt", 'r') as file:
+    lines = file.readlines()
+    terms_definitions = [line.strip().split(':') for line in lines]
+terms_dict = dict(terms_definitions)
 current_term = None
 current_def = None
 message_count = 0
@@ -46,85 +25,53 @@ quiz_int_messages = 5
 quiz_timeout = 30
 points_dict = {}
 
-
-@client.event
+@bot.event
 async def on_ready():
-    print(f'We have logged in as {client.user}')
+    print(f'Logged in as {bot.user}')
 
-@client.event
+@bot.event
 async def on_message(message):
-    global current_term, current_def, message_count, quiz_int_messages, quiz_timeout, points_dict
-
-    if message.author == client.user:
+    global terms_dict, current_term, current_def, message_count, quiz_int_messages, quiz_timeout, points_dict
+    if message.author == bot.user:
         return
-    
-    if message.content.lower() == '!startquiz':
+    elif message.content.startswith("?startquiz"):
         current_term, current_def = random.choice(list(terms_dict.items()))
-        
-        # init start_time
         start_time = time.time()
-
         await message.channel.send(f'Quiz started! What term(s) matches the following definition: **{current_def}**?')
-
-
         timeout_task = asyncio.create_task(quiz_timeout_task(message.channel))
         await timeout_task
-
-    elif message.content.lower() == '!endquiz':
-        await message.channel.send(f'Too bad! The correct answer was: **{current_term}**')
+    elif message.content.startswith("?endquiz"):
+        await message.channel.send(f'The correct answer was: **{current_term}**')
         current_term, current_def, message_count = None, None, 0
-
-    elif message.content.lower().startswith('!sentinterval'):
-        try:
-            new_interval = int(message.content.split()[1])
-            quiz_int_messages = new_interval
-            await message.channel.send(f'Quiz interval has been successfully set to {new_interval} messages.')
-        except (IndexError, ValueError):
-            await message.channel.send('Nice try dimwit! Try an input like `!setinterval 15` to have the bot start a quiz every 15 messages.')
-
     elif message.content.lower().startswith('!settimeout'):
         try:
             new_timeout = int(message.content.split()[1])
             quiz_timeout = new_timeout
             await message.channel.send(f'Quiz timeout set to {new_timeout} seconds.')
         except (IndexError, ValueError):
-            await message.channel.send('Nice try dimwit! Try an input like `!settimeout 30` to have the bot time out after 30 seconds.')
-    
-    elif current_term is not None and message.content.lower() == current_term.lower():
-        # this is when the user guesses correctly
+            await message.channel.send('Try an input like `!settimeout 30` to have the bot time out after 30 seconds.')
+    elif message.content.startswith("?leaderboard"):
+        leaderboardvar = sorted(points_dict.items(), key=lambda x: x[1], reverse=True)
+        leaderboard_str = '\n'.join(f'{index + 1}. {client.get_user(int(user_id))}: {points}' for index, (user_id, points) in enumerate(leaderboardvar))
+        await message.channel.send(f'leaderboard:\n{leaderboard_str}')
+    elif current_term is not None and message.content.startswith(current_term): #correct
         end_time = time.time()
         elapsed_time = round(end_time - start_time, 2)
-
         #calculating points based on response time
         points = max(0, round((quiz_timeout - elapsed_time) * 10))
         user_id = str(message.author.id)
-
         # awarding points and updating point dict
         points_dict[user_id] = points_dict.get(user_id, 0) + points
-
         await message.channel.send(f'Correct! {message.author.mention} guessed the term and earned {points} points!')
         current_term, current_def, message_count = None, None, 0
-
-    elif current_term is not None:
-        similarity_score = fuzz.ratio(message.content.lower(), current_term.lower())
-        if similarity_score >= 70:
-            await message.channel.send(f"Close! you're {100 - similarity_score}% close!")
-        else:
-            await message.channel.send(f'Nope! Try again.')
-
-
-    elif message.content.lower().startswith('!leaderboard'):
-        leaderboard = sorted(points_dict.items(), key=lambda x: x[1], reverse=True)
-        leaderboard_str = '\n'.join(f'{index + 1}. {client.get_user(int(user_id))}: {points}' for index, (user_id, points) in enumerate(leaderboard))
-        await message.channel.send(f'leaderboard:\n{leaderboard_str}')
+    elif current_term is not None: #incorrect
+        await message.channel.send(f'Nope! Try again.')
 
 async def quiz_timeout_task(channel):
+    global terms_dict, current_term, current_def, message_count, quiz_int_messages, quiz_timeout, points_dict
     await asyncio.sleep(quiz_timeout)
     if current_term is not None:
         await channel.send(f'Time is up! The correct answer was: **{current_term}**')
         current_term, current_def, message_count = None, None, 0
 
-terms_dict = load_terms(TERMS_FILE)
-
-# executing
-client.run(TOKEN)
+bot.run(token)
