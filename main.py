@@ -25,7 +25,7 @@ if not os.path.isfile(TERMS_FILE):
 
 terms_dict = {}
 
- # database check
+# database check
 db_api_key = os.getenv("DB_API_KEY")   
 
 def load_terms(file_path):
@@ -123,6 +123,8 @@ async def quiz_timeout_task(channel):
     if current_term is not None:
         await channel.send(f'Time is up! The correct answer was: **{current_term}**')
         current_term, current_def, message_count = None, None, 0
+
+terms_dict = load_terms(TERMS_FILE)
 
 # executing
 client.run(TOKEN)
