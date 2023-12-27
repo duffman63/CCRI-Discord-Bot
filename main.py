@@ -53,19 +53,20 @@ async def on_message(message):
     elif message.content.startswith("?leaderboard"):
         leaderboardvar = sorted(points_dict.items(), key=lambda x: x[1], reverse=True)
         leaderboard_str = '\n'.join(f'{index + 1}. {client.get_user(int(user_id))}: {points}' for index, (user_id, points) in enumerate(leaderboardvar))
-        await message.channel.send(f'leaderboard:\n{leaderboard_str}')
-    elif current_term is not None and message.content.startswith(current_term): #correct
-        end_time = time.time()
-        elapsed_time = round(end_time - start_time, 2)
-        #calculating points based on response time
-        points = max(0, round((quiz_timeout - elapsed_time) * 10))
-        user_id = str(message.author.id)
-        # awarding points and updating point dict
-        points_dict[user_id] = points_dict.get(user_id, 0) + points
-        await message.channel.send(f'Correct! {message.author.mention} guessed the term and earned {points} points!')
-        current_term, current_def, message_count = None, None, 0
-    elif current_term is not None: #incorrect
-        await message.channel.send(f'Nope! Try again.')
+        await message.channel.send(f'Leaderboard:\n{leaderboard_str}')
+    elif current_term is not None: #quiz
+        if message.content.startswith(current_term): 
+            #correct
+            end_time = time.time()
+            elapsed_time = round(end_time - start_time, 2)
+            points = max(0, round((quiz_timeout - elapsed_time) * 10))
+            user_id = str(message.author.id)
+            points_dict[user_id] = points_dict.get(user_id, 0) + points
+            await message.channel.send(f'Correct! {message.author.mention} guessed the term and earned {points} points!')
+            current_term, current_def, message_count = None, None, 0
+        else:
+            #incorrect
+            await message.channel.send(f'Nope! Try again.')
 
 async def quiz_timeout_task(channel):
     global terms_dict, current_term, current_def, message_count, quiz_int_messages, quiz_timeout, points_dict
