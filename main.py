@@ -31,13 +31,14 @@ async def on_ready():
 
 @bot.event
 async def on_message(message):
-    global terms_dict, current_term, current_def, message_count, quiz_int_messages, quiz_timeout, points_dict
+    global terms_dict, current_term, current_def, message_count, quiz_int_messages, quiz_timeout, points_dict, start_time
     if message.author == bot.user:
         return
     elif message.content.startswith("?startquiz"):
         current_term, current_def = random.choice(list(terms_dict.items()))
         start_time = time.time()
         await message.channel.send(f'Quiz started! What term(s) matches the following definition: **{current_def}**?')
+        print(current_term) #for testing purposes
         timeout_task = asyncio.create_task(quiz_timeout_task(message.channel))
         await timeout_task
     elif message.content.startswith("?endquiz"):
@@ -52,7 +53,7 @@ async def on_message(message):
             await message.channel.send('Try an input like `!settimeout 30` to have the bot time out after 30 seconds.')
     elif message.content.startswith("?leaderboard"):
         leaderboardvar = sorted(points_dict.items(), key=lambda x: x[1], reverse=True)
-        leaderboard_str = '\n'.join(f'{index + 1}. {client.get_user(int(user_id))}: {points}' for index, (user_id, points) in enumerate(leaderboardvar))
+        leaderboard_str = '\n'.join(f'{index + 1}. {bot.get_user(int(user_id))}: {points}' for index, (user_id, points) in enumerate(leaderboardvar))
         await message.channel.send(f'Leaderboard:\n{leaderboard_str}')
     elif current_term is not None: #quiz
         if message.content.startswith(current_term): 
