@@ -31,7 +31,8 @@ async def on_ready():
 
 @bot.event
 async def on_message(message):
-    global terms_dict, current_term, current_def, message_count, quiz_int_messages, quiz_timeout, points_dict, start_time
+    global terms_dict, timeout_task, current_term, current_def, message_count, quiz_int_messages, quiz_timeout, points_dict, start_time
+    #timeout_task = asyncio.create_task(quiz_timeout_task(message.channel))
     if message.author == bot.user:
         return
     elif message.content.startswith("?startquiz"):
@@ -44,6 +45,8 @@ async def on_message(message):
     elif message.content.startswith("?endquiz"):
         await message.channel.send(f'The correct answer was: **{current_term}**')
         current_term, current_def, message_count = None, None, 0
+        test = timeout_task.cancel()
+        print(test) #terminated
     elif message.content.lower().startswith('!settimeout'):
         try:
             new_timeout = int(message.content.split()[1])
@@ -56,7 +59,7 @@ async def on_message(message):
         leaderboard_str = '\n'.join(f'{index + 1}. {bot.get_user(int(user_id))}: {points}' for index, (user_id, points) in enumerate(leaderboardvar))
         await message.channel.send(f'Leaderboard:\n{leaderboard_str}')
     elif current_term is not None: #quiz
-        if message.content.startswith(current_term): 
+        if message.content.startswith(current_term):
             #correct
             end_time = time.time()
             elapsed_time = round(end_time - start_time, 2)
@@ -65,6 +68,8 @@ async def on_message(message):
             points_dict[user_id] = points_dict.get(user_id, 0) + points
             await message.channel.send(f'Correct! {message.author.mention} guessed the term and earned {points} points!')
             current_term, current_def, message_count = None, None, 0
+            test = timeout_task.cancel()
+            print(test) #terminated
         else:
             #incorrect
             await message.channel.send(f'Nope! Try again.')
@@ -72,8 +77,7 @@ async def on_message(message):
 async def quiz_timeout_task(channel):
     global terms_dict, current_term, current_def, message_count, quiz_int_messages, quiz_timeout, points_dict
     await asyncio.sleep(quiz_timeout)
-    if current_term is not None:
-        await channel.send(f'Time is up! The correct answer was: **{current_term}**')
-        current_term, current_def, message_count = None, None, 0
+    await channel.send(f'Time is up! The correct answer was: **{current_term}**')
+    current_term, current_def, message_count = None, None, 0
 
 bot.run(token)
