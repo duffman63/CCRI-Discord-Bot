@@ -36,6 +36,9 @@ async def on_message(message):
     if message.author == bot.user:
         return
     elif message.content.startswith("?startquiz"):
+        if current_term is not None:
+            await message.channel.send("Quiz already active!")
+            return
         current_term, current_def = random.choice(list(terms_dict.items()))
         start_time = time.time()
         await message.channel.send(f'Quiz started! What term(s) matches the following definition: **{current_def}**?')
@@ -43,6 +46,9 @@ async def on_message(message):
         timeout_task = asyncio.create_task(quiz_timeout_task(message.channel))
         await timeout_task
     elif message.content.startswith("?endquiz"):
+        if current_term is None:
+            await message.channel.send("Quiz not started, cannot end!")
+            return
         await message.channel.send(f'The correct answer was: **{current_term}**')
         current_term, current_def, message_count = None, None, 0
         test = timeout_task.cancel()
