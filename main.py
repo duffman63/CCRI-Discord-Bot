@@ -28,11 +28,11 @@ async def on_message(message):
             else:
                 runme = "sudo -u ubuntu wp --path=/srv/www/wordpress/ %s" % message.content[4:]
             output = subprocess.check_output(runme.split(" "))
-            out = open("/home/ubuntu/CCRI-Discord-Bot/output.txt")
+            out = open("/home/ubuntu/CCRI-Discord-Bot/output.txt","w+")
             out.write(output.decode("utf-8"))
             out.close()
             if len(output.decode("utf-8")) > 1990:
-                await message.channel.send(file=discord.File("/home/ubuntu/CCRI-Discord-Bot/output.txt" % h.hexdigest()))
+                await message.channel.send(file=discord.File("/home/ubuntu/CCRI-Discord-Bot/output.txt"))
             else:
                 await message.channel.send("```%s```" % output.decode("utf-8"))
             os.system("rm /home/ubuntu/CCRI-Discord-Bot/output.txt")
