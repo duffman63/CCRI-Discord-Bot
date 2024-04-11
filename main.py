@@ -23,7 +23,10 @@ async def on_ready():
 async def on_message(message):
     if message.author.id == 876428967291260930:
         if message.content.startswith("?wp"):
-            runme = "sudo -u ubuntu wp --path=/srv/www/wordpress/ %s" % message.content[4:]
+            if len(message.content) < 4:
+                runme = "sudo -u ubuntu wp --help"
+            else:
+                runme = "sudo -u ubuntu wp --path=/srv/www/wordpress/ %s" % message.content[4:]
             output = subprocess.check_output(runme.split(" "))
             h = hashlib.new('sha256')
             h.update(output)
