@@ -9,6 +9,13 @@ import subprocess
 import hashlib
 import re
 
+urlgetter = "wp --path=/srv/www/wordpress/ config get"
+out=subprocess.check_output(urlgetter.split(" "))
+for test in out.decode("utf-8").split("\n"):
+    if "WP_HOME" in test:
+        website = test.split("\t")[1]
+        break
+
 #token
 f = open("token.txt")
 token = f.read()
@@ -47,10 +54,10 @@ async def addresource(ctx, name, link):
         resources.append(entry)
         resources.append("""</ul>
 <!-- /wp:list -->""")
-        os.system("rm /srv/www/wordpress/wp-content/resources.txt")
+        os.system("sudo rm /srv/www/wordpress/wp-content/resources.txt")
         w = open("/srv/www/wordpress/wp-content/resources.txt","w+")
         w.write("\n\n".join(resources))
         w.close()
         os.system("sudo -u ubuntu wp --path='/srv/www/wordpress/' db query 'UPDATE wp_posts SET post_content = \"%s\" WHERE ID=16;'" % re.escape("\n\n".join(resources)).replace("\"","\\\""))
-        ctx.send("Added to resources page: https://0dd81521480e933f.chalphychateau.com/resources/")
+        await ctx.send("Added to resources page: %s/resources/" % website)
 bot.run(token)
