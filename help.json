@@ -1,0 +1,6 @@
+{
+"help" : "Shows help, can show help for a specific command too."
+"wp" : "This is the wp-cli util integration with the bot.",
+"addresource" : "Add a cyber resource to the resources page on the website. Takes a name and then a link to add as arguments.",
+"roll" : "Roll a Random number. First argument is the low number second is the high number. Will use a max signed WORD if you don't specify a max and 0 as a minimum if you don't specify a low." 
+}
